@@ -6,7 +6,7 @@ Frontend Development gaat over de _client side_ van een applicatie. Het gaat ove
 
 Talen die vaak gebruikt worden voor het frontend deel van een applicatie zijn: `HTML`, `CSS` en `Javascript`. Maar het gaat vaak nog verder dan dat: Lettertypes, Layouts, Grid Systeem en kleurentheorie. Kortom, de wereld van Frontend Development is heel erg groot. En je staat nu aan het begin van je reis in deze wereld.
 
-![Overzicht](01- Wat is frontend/taak01/images/frontend overview.png?raw=true)
+![Overzicht](https://github.com/ROC-van-Amsterdam-College-Amstelland/FRONTEND-BASIC/01- Wat is frontend/taak01/images/frontend overview.png?raw=true)
 
 
 Als je deze taak gelezen hebt dan kun je deze nu afvinken.
