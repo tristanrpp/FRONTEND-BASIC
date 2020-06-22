@@ -1,4 +1,4 @@
-## FE Explained
+## Wat is Frontend?
 
 ### What is a Frontend Developer?
 

@@ -11,7 +11,7 @@
 ## INHOUD
 
 1. Wat is frontend
-2. Kijken naar desgin
+2. Kijken naar design
 3. Basis HTML
 4. Basis CSS
 5. Basis Javscript
