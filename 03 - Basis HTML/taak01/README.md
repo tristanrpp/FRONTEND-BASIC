@@ -18,9 +18,7 @@ Een webpagina heeft vaak het volgende standaard patroon:
   <head>
     <title>Mijn eerste webpagina</title>
   </head>
-  <body>
-  
-  </body>
+  <body></body>
 </html>
 ```
 
@@ -59,10 +57,18 @@ In de `<body>` tag zet je informatie neer waar je klant of gebruiker wat aan hee
   <p>Dit is een paragraaf</p>
 </body>
 ```
-Dit is dan het resultaat:
-![eerste webpagina](/FRONTEND-BASIC/03%20-%20Basis%20HTML/taak01/images/index.png)
 
+Dit is dan het resultaat:
+![een voorbeeld](/FRONTEND-BASIC/03%20-%20Basis%20HTML/taak01/images/index.png)
 
 ### OPDRACHT
 
-1.
+1. Maak bij deze taak een nieuw bestand: `index.html`
+2. Maak gebruik van de standaard tags en vul de volgende informatie in op de juiste plek, kies uit `title`, `h1` en `p` tags
+   > - Een webpagina maken is makkelijk
+   > - Welkom op mijn website.
+   > - U moet nog even geduld hebben. De styling komt later
+
+### EINDRESULTAAT
+
+![eerste webpagina](/FRONTEND-BASIC/03%20-%20Basis%20HTML/taak01/images/resultaat.png)
