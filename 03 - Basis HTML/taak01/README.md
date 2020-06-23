@@ -10,19 +10,17 @@ Een webpagina is opgebouwd uit HTML-tags. Tags kun je vergelijken met Lego blokj
 
 De meeste webpagina's die jij gaat maken hebben een standaard patroon.
 
-Een webpagina heeft vaak het volgende standaard patroon:
+Een webpagina heeft vaak het volgende standaard patroon. Deze HTML-tags zijn **altijd** aanwezig op je website:
 
 ```html
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Mijn eerste webpagina</title>
+    <title></title>
   </head>
   <body></body>
 </html>
 ```
-
-De volgende tags zijn **altijd** aanwezig op je website:
 
 > `<!DOCTYPE html>` : tag die aangeeft dat je op deze pagina HTML versie 5 gebruikt
 
@@ -40,14 +38,14 @@ Zoals je ziet hebben de bovenstaande `tags` ook nog _sluit_-tags. Dit zijn tags 
 
 ```html
 <html></html>
-<head> </head>
-<title> </title>
+<head></head>
+<title></title>
 <body></body>
 <h1></h1>
 <p></p>
 ```
 
-Tussen de tags zet je informatie neer die daar hoort (zie `<title>` eerste voorbeeld).
+Tussen de tags zet je informatie neer die daar hoort.
 
 In de `<body>` tag zet je informatie neer waar je klant of gebruiker wat aan heeft. Bijvoorbeeld zo:
 
@@ -72,3 +70,7 @@ Dit is dan het resultaat:
 ### EINDRESULTAAT
 
 ![eerste webpagina](/FRONTEND-BASIC/03%20-%20Basis%20HTML/taak01/images/resultaat.png)
+
+### BRONNEN
+
+- [W3Schools - HTML Tutorial](https://www.w3schools.com/html/)
