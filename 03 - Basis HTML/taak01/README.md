@@ -6,7 +6,7 @@ HTML staat voor Hyper Text Markup Language. Het is een opmaaktaal en niet echt e
 
 Een webpagina is opgebouwd uit HTML-tags. Tags kun je vergelijken met Lego blokjes. Net als bij Lego kun je hiermee de **STRUCTUUR** van een website bepalen.
 
-![lego](/FRONTEND-BASIC/03%20-%20Basis%20HTML/taak01/images/lego.jpg)
+![lego](images/lego.jpg)
 
 De meeste webpagina's die jij gaat maken hebben een standaard patroon.
 
@@ -57,19 +57,20 @@ In de `<body>` tag zet je informatie neer waar je klant of gebruiker wat aan hee
 ```
 
 Dit is dan het resultaat:
-![een voorbeeld](/FRONTEND-BASIC/03%20-%20Basis%20HTML/taak01/images/index.png)
+![een voorbeeld](images/index.png)
 
 ### OPDRACHT
 
-1. Maak bij deze taak een nieuw bestand: `index.html`
+1. Maak bij deze taak gebruik van bestand: `index.html`
 2. Maak gebruik van de standaard tags en vul de volgende informatie in op de juiste plek, kies uit `title`, `h1` en `p` tags
    > - Een webpagina maken is makkelijk
    > - Welkom op mijn website.
    > - U moet nog even geduld hebben. De styling komt later
+3. Lees de tekst en de opdracht goed om tot het eindresultaat te komen
 
 ### EINDRESULTAAT
 
-![eerste webpagina](/FRONTEND-BASIC/03%20-%20Basis%20HTML/taak01/images/resultaat.png)
+![eerste webpagina](images/resultaat.png)
 
 ### BRONNEN
 
