@@ -6,7 +6,7 @@ HTML staat voor Hyper Text Markup Language. Het is een opmaaktaal en niet echt e
 
 Een webpagina is opgebouwd uit HTML-tags. Tags kun je vergelijken met Lego blokjes. Net als bij Lego kun je hiermee de **STRUCTUUR** van een website bepalen.
 
-![lego](/FRONTEND-BASIC/03%20-%20Basis%20HTML/taak01/images/lego.jpg)
+![lego](images/lego.jpg)
 
 De meeste webpagina's die jij gaat maken hebben een standaard patroon.
 
