@@ -1,16 +1,58 @@
 # FRONTEND-BASIC
 
-### Developer Tools
+### Links maken
 
-Als developer ga je gebruik maken van diverse tools. Een daarvan is Google Chrome DevTools. Je kunt deze tools op verschillende manieren starten. Druk eens bijvoorbeeld op `F12` van je toetsenbord. Maar je kunt ook je `rechtermuisknop` gebruiken. Die laatste methode gaan we in de opdracht gebruiken
+Ok. je hebt nu een taak gedaan met een basis pagina en een taak waarbij je een plaatje invoegd in je pagina.
+In deze taak gaan we twee webpagina's aan elkaar linken.
+
+Het gehele online web bestaat uit links. Als je ergens op klikt dan klik je op een URL-link. (Uniform Resource Locator).
+Een link wordt ook wel een `anchor-tag` genoemd. Een anker of een haakje. Een haakje naar iets anders toe.
+
+Een link heeft ook een _attribuut_, net als bij `<img>` waarbij `src` gebruikt werd, heeft een anchor-tag `<a>` een `href` attribuut. 
+
+Bij `href` zet je de lokatie van een pagina neer, voorbeelden zijn:
+
+- https://www.rocva.nl
+- https://www.eagledev.nl
+- https://www.outlook.com
+
+Maar ook
+
+- link_naar_andere_pagina.html
+- tweede_pagina.html
+
+Al deze `url`s staan tussen aanhalingstekens, net als bij `<img>`
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mijn eerste link</title>
+  </head>
+  <body>
+
+    <a href="link_naar_andere_pagina.html">Link naar pagina 2</a>
+
+  </body>
+</html>
+```
+
+Met dit resultaat:
+
+![Link](images/link.png)
+
+Als je op deze link klikt dat wordt pagina `link_naar_andere_pagina.html` opgevraagd en getoond. Met natuurlijk de daarbij behorende informatie.
 
 ### OPDRACHT
 
-1. Surf naar [Tiktok.com](https://www.tiktok.com/)
-2. Klik met je rechtermuisknop op `"Make Your Day"`
-3. Kies daarna element selecteren ![selecter element](/FRONTEND-BASIC/03%20-%20Basis%20HTML/taak03/images/elementselect.png)
-4. De tekst `Make Your Day` staat in een koptekst-tag. Kan jij bepalen welke?
-5. De tekst eronder staat ook in een koptekst-tag. Kan jij deze ook bepalen?
-6. Aan de onderkant van de webpagina staan nog meer gegevens. Vaak zijn dit bedrijfsgegevens of extra informatie die handig kan zijn. Dit stuk noemen ze de footer van een pagina (zie afbeeldingen hieronder). Kun jij achterhalen tussen welke tags de kopjes en links staan?
-   ![footer TikTok](/FRONTEND-BASIC/03%20-%20Basis%20HTML/taak03/images/footer.png)
-   ![footer TikTok](/FRONTEND-BASIC/03%20-%20Basis%20HTML/taak03/images/footer-tech.png)
+1. Maak bij deze taak gebruik van bestand: `index.html` en van het bestand `over-mij.html`
+2. Codeer een link op de index.html pagina naar over-mij.html toe. 
+3. Houd je aan de schrijfwijze, dus met aanhalingstekens en naam.extentie
+
+### EINDRESULTAAT
+
+![eerste webpagina](images/resultaat.png)
+
+### BRONNEN
+
+- [W3Schools - HTML Tutorial](https://www.w3schools.com/html/)

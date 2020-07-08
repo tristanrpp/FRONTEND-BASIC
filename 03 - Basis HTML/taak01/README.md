@@ -2,7 +2,7 @@
 
 ### Wat is HTML
 
-HTML staat voor Hyper Text Markup Language. Het is een opmaaktaal en niet echt een programmeertaal. Deze taal wordt uitgevoerd in de browser.
+HTML staat voor Hyper Text Markup Language. Het is een opmaaktaal. Deze taal wordt uitgevoerd in de browser.
 
 Een webpagina is opgebouwd uit HTML-tags. Tags kun je vergelijken met Lego blokjes. Net als bij Lego kun je hiermee de **STRUCTUUR** van een website bepalen.
 
@@ -26,7 +26,7 @@ Een webpagina heeft vaak het volgende standaard patroon. Deze HTML-tags zijn **a
 
 > `<html>` : tag die aangeeft dat je html tags gaat gebruiken
 
-> `<head>` : tag waarin belangrijke informatie staat, deze informatie is voor een normale gebruiker niet zichtbaar
+> `<head>` : tag waarin belangrijke informatie staat, deze informatie is voor een normale gebruiker __niet zichtbaar__
 
 > `<title>` : tag waarin de titel van de webpagina genoteerd wordt
 
@@ -67,6 +67,8 @@ Dit is dan het resultaat:
    > - Welkom op mijn website.
    > - U moet nog even geduld hebben. De styling komt later
 3. Lees de tekst en de opdracht goed om tot het eindresultaat te komen
+4. Let erop dat de tag `title` tusse de `head` tags komt te staan
+5. Let erop dat de `h1` en `p` tags tussen de `body` tags komen te staan
 
 ### EINDRESULTAAT
 
