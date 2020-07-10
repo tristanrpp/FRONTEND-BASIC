@@ -12,9 +12,9 @@ Een link heeft ook een _attribuut_, net als bij `<img>` waarbij `src` gebruikt w
 
 Bij `href` zet je de lokatie van een pagina neer, voorbeelden zijn:
 
-- https://www.rocva.nl
-- https://www.eagledev.nl
-- https://www.outlook.com
+- `https://www.rocva.nl`
+- `https://www.eagledev.nl`
+- `https://www.outlook.com`
 
 Maar ook
 
@@ -46,7 +46,7 @@ Als je op deze link klikt dat wordt pagina `link_naar_andere_pagina.html` opgevr
 ### OPDRACHT
 
 1. Maak bij deze taak gebruik van bestand: `index.html` en van het bestand `over-mij.html`
-2. Codeer een link op de index.html pagina naar over-mij.html toe. 
+2. Codeer een link op de index.html pagina naar over-mij.html toe.
 3. Houd je aan de schrijfwijze, dus met aanhalingstekens en naam.extentie
 
 ### EINDRESULTAAT
