@@ -1,6 +1,6 @@
 # FRONTEND-BASIC
 
-### Wat is HTML
+## Wat is HTML
 
 HTML staat voor Hyper Text Markup Language. Het is een opmaaktaal. Deze taal wordt uitgevoerd in de browser.
 
@@ -21,21 +21,16 @@ Een webpagina heeft vaak het volgende standaard patroon. Deze HTML-tags zijn **a
   <body></body>
 </html>
 ```
+
 Zoals je ziet komen de tags `2x` voor. Je ziet __openings-__ en __sluit-tags__.
 De tags met een `/` ervoor zijn sluit tags. Dus bijvoorbeeld `</body>`. Dit betekent het **einde** van dit onderdeel.
 
-> `<!DOCTYPE html>` : tag die aangeeft dat je op deze pagina HTML versie 5 gebruikt
-
-> `<html>` : tag die aangeeft dat je html tags gaat gebruiken
-
-> `<head>` : tag waarin belangrijke informatie staat, deze informatie is voor een normale gebruiker __niet zichtbaar__
-
-> `<title>` : tag waarin de titel van de webpagina genoteerd wordt
-
-> `<body>` : tag waar alle **zichtbare** informatie gezet wordt
-
-
-> Bijna alle tags hebben een sluit-tag:
+> * `<!DOCTYPE html>` : tag die aangeeft dat je op deze pagina HTML versie 5 gebruikt
+> * `<html>` : tag die aangeeft dat je html tags gaat gebruken
+> * `<head>` : tag bevat informatie dat voor een normale gebruiker __niet zichtbaar__ is
+> * `<title>` : tag waarin de titel van de webpagina genoteerd wordt
+> * `<body>` : tag waar alle **zichtbare** informatie gezet wordt
+> * Bijna alle tags hebben een sluit-tag:
 
 ```html
 <html></html>

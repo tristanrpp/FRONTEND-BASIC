@@ -1,1 +1,17 @@
 # FRONTEND-BASIC
+
+## Javascript - intro
+
+Je hebt inmiddels geleerd dat je met HTML de structuur van een site kunt coderen. Daarnaast heb je geleerd dat je met CSS diezelfde tags een stijl kunt geven.
+
+Met Javascript kun je interactie op een website maken.
+Je kunt dingen laten bewegen, de gebruiker om informatie vragen en als je veel verder bent hele applicaties of games maken. `Javascript` is een echte programmeertaal.
+
+### OPDRACHT
+
+1. Open `index.html` in je browser.
+2. Bekijk eens wat er gebeurd.
+
+### RESULTAAT
+
+![Resultaat](images/resultaat.png)
