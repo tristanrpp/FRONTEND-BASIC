@@ -72,3 +72,4 @@ Er zijn er nog veel meer. Ga lekker coderen en dan kom je er vanzelf achter welk
 ### BRONNEN
 
 - [W3Schools - HTML Tutorial](https://www.w3schools.com/html/)
+- [HTML leren schrijven - Les 1](https://www.youtube.com/watch?v=3ejolTCFrYg)
