@@ -14,8 +14,7 @@ Een class is een eigenschap van een tag. Je schrijf het zo:
 <p >Hier staat weer andere tekst</p>
 ```
 
-Als je de tag met die class wilt stijlen dan kan je dat in CSS doen met een __`.`__ 
-
+Als je de tag met die class wilt stijlen dan kan je dat in CSS doen met een __`.`__
 
 ```css
     .amsterdam{
