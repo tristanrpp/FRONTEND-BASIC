@@ -56,3 +56,4 @@ Als je op deze link klikt dat wordt pagina `link_naar_andere_pagina.html` opgevr
 ### BRONNEN
 
 - [W3Schools - HTML Tutorial](https://www.w3schools.com/html/)
+- [Een link maken - Les 5 -](https://www.youtube.com/watch?v=ywTp238aqSE)

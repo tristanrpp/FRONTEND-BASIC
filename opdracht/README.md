@@ -23,4 +23,4 @@ Je hebt nu allerlei basisbegrippen gebruikt of toegepast. Je hebt kennis gemaakt
 
 ### OPDRACHT
 
-Maak een website waarin je 
+Maak een website waarin je de gebruiker vraagt om de leeftijd, voornaam, achternaam en favoriete hobby. Zorg ervoor dat de gegevens van die persoon 
