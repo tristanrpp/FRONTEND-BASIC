@@ -1,16 +1,57 @@
 # FRONTEND-BASIC
 
-### Developer Tools
+## Plaatje toevoegen
 
-Als developer ga je gebruik maken van diverse tools. Een daarvan is Google Chrome DevTools. Je kunt deze tools op verschillende manieren starten. Druk eens bijvoorbeeld op `F12` van je toetsenbord. Maar je kunt ook je `rechtermuisknop` gebruiken. Die laatste methode gaan we in de opdracht gebruiken
+Bij taak 1 kreeg je een introductie  over verschillende HTML-tags. We hadden het over `openings`- en `sluit`-tags. Tussen de tags zetten we de informatie. Bij een image tag werkt het net even anders. Een image tag `<img>` heeft geen sluit tag.
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hier komt de titel</title>
+  </head>
+  <body>
+    Hier staat zichtbare informatie. De gebruiker kan dit lezen
+    <img src="mijn_plaatje.jpg">
+  </body>
+</html>
+```
+
+Soms wil je ook een plaatje toevoegen aan je website. Daarvoor gebruiken we de `<img>` tag. Dit staat voor __image__ wat dus plaatje/foto betekent.
+
+Deze `img`-tag heeft geen sluit tag. Je zul vanzelf bekend worden met welke tag wel en welke niet. Door te gaan bouwen krijg je ervaring. Zo simpel is het.
+
+Deze `img`-tag heeft wel een _attribuut_. Een attribuut is een eigenschap. Net als lichaamslengte en haarkleur een eigenschap is. Zo is `src` ook een eigenschap, van `img`.
+`src` staat voor source ofwel bron. Wat is de bron van het plaatje? Wat is de lokatie van het plaatje? Dat zet je dan achter het `=`-teken tussen aanhalingstekens `"`.
+
+> Als het plaatje __in dezelfde map staat__ als het html bestand dan kun hoef je alleen de naam en de extentie van het plaatje op te geven.
+
+* taak03 (map)
+  * index.html
+  * mijn_plaatje.jpg
+
+>
+> ```html
+>
+> >  <img src="mijn_plaatje.jpg">
+>
+> ```
+
+Je ziet in dit voorbeeld dat ook de extentie (bestandstype) wordt opgeschreven. Dit is verplicht bij het _attribuut_ `src`. Je codeert eigenlijk alles zo specifiek en nauwkeurig mogelijk. Daarnaast staat de naam van het plaatje en de extentie tussen aanhalingstekens. Dit doe je voor alle attributen van een HTML-tags
+
+> Opmerking: Alle zichtbare elemente, en dus ook een plaatje, plaats je altijd tussen de `<body>`-tags
 
 ### OPDRACHT
 
-1. Surf naar [Tiktok.com](https://www.tiktok.com/)
-2. Klik met je rechtermuisknop op `"Make Your Day"`
-3. Kies daarna element selecteren ![selecter element](images/elementselect.png)
-4. De tekst `Make Your Day` staat in een koptekst-tag. Kan jij bepalen welke?
-5. De tekst eronder staat ook in een koptekst-tag. Kan jij deze ook bepalen?
-6. Aan de onderkant van de webpagina staan nog meer gegevens. Vaak zijn dit bedrijfsgegevens of extra informatie die handig kan zijn. Dit stuk noemen ze de footer van een pagina (zie afbeeldingen hieronder). Kun jij achterhalen tussen welke tags de kopjes en links staan?
-   ![footer TikTok](images/footer.png)
-   ![footer TikTok]images/footer-tech.png)
+1. Maak bij deze taak gebruik van het bestand van taak01: `index.html`
+2. Download een plaatje of afbeelding dat je gaaf vindt.
+3. Zet dit plaatje in de map van deze taak
+4. Codeer met de `img` tag het plaatje zichtbaar op de webpagina.
+
+### EINDRESULTAAT
+
+![eerste plaatje](images/resultaat.png)
+
+### BRONNEN
+
+* [W3Schools - HTML Tutorial](https://www.w3schools.com/html/)

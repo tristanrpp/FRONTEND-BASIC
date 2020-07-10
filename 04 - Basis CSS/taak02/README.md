@@ -36,7 +36,7 @@ Je plaatst je CSS blok tussen de  `<head>` tags van je pagina.
 ```html
 <!DOCTYPE html>
 <html>
-    <head>
+    <head><!-- Hier begint de head -->
         <title>Mijn eerste CSS</title>
         <style>
             /* hier komt je css te staan */ 
@@ -45,7 +45,7 @@ Je plaatst je CSS blok tussen de  `<head>` tags van je pagina.
                 color: purple
             }
         </style>
-    </head>
+    </head><!-- Hier eindigt de head -->
     <body>
     <!-- Je codeert je plaatje onder deze regel -->
     </body>
@@ -53,7 +53,7 @@ Je plaatst je CSS blok tussen de  `<head>` tags van je pagina.
 ```
 ### OPDRACHT
 
-1. Maak een index.html bij deze taak
+1. Maak gebruik van index.html bij deze taak
 2. Gebruik de standaard HTML tags
 3. Maar in de body een `<h1>`-tag en een `</h1>`-sluit tag met daarin de volgende tekst: `"De meeste mensen deugen"`
 4. Geef de achtergrond een rode kleur

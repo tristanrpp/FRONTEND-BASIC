@@ -1,57 +1,37 @@
 # FRONTEND-BASIC
 
-### Links maken
+## Inspringen
 
-Ok. je hebt nu een taak gedaan met een basis pagina en een taak waarbij je een plaatje invoegd in je pagina.
-In deze taak gaan we twee webpagina's aan elkaar linken.
+Bij de vorige taak vertelde we je dat er 2 belangrijke afspraken zijn:
 
-Het gehele online web bestaat uit links. Als je ergens op klikt dan klik je op een URL-link. (Uniform Resource Locator).
-Een link wordt ook wel een `anchor-tag` genoemd. Een anker of een haakje. Een haakje naar iets anders toe.
+- __Afspraak 1:__ Zet de juiste informatie tussen de tags
+- __Afspraak 2:__ Inspringen (indenting) is verplicht, dit zorgt voor leesbaarheid
 
-Een link heeft ook een _attribuut_, net als bij `<img>` waarbij `src` gebruikt werd, heeft een anchor-tag `<a>` een `href` attribuut. 
+We gaan nu Afspraak 2 behandelen: inspringen. Je moet ten __allertijde__ letten op het inspringen van je code. Dit geldt bij HTML, CSS, JAVASCRIPT, PHP, C#, Python enzovoort.
 
-Bij `href` zet je de lokatie van een pagina neer, voorbeelden zijn:
-
-- https://www.rocva.nl
-- https://www.eagledev.nl
-- https://www.outlook.com
-
-Maar ook
-
-- link_naar_andere_pagina.html
-- tweede_pagina.html
-
-Al deze `url`s staan tussen aanhalingstekens, net als bij `<img>`
+Inspringen betekent dat je op je TAB-toets drukt. Inspringen betekent dat sommige tags iets meer naar rechts staan dan andere.
+Kijk eens naar de html-code uit de vorige opdracht:
 
 ```html
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Mijn eerste link</title>
+    <title>Artikel over nerds</title>
   </head>
   <body>
-
-    <a href="link_naar_andere_pagina.html">Link naar pagina 2</a>
-
+    <h1>Alle coders zijn nerds</h1>
+    <p>Sommige mensen zeggen dat nerds slimme mensen zijn, anderen zeggen dat nerds gewoon nieuwsgierige mensen zijn.</p>
   </body>
 </html>
 ```
 
-Met dit resultaat:
+Alle tags die tussen `<html>` en </html> staan zijn ingesprongen ten opzichte van diezelfde tags. Ze staan allemaal een stukje naar rechts. Dit geldt ook voor alle tags die tussen `<body>` en `</body>` tags staan. __Dit zorgt voor een betere leesbaarheid__
 
-![Link](images/link.png)
-
-Als je op deze link klikt dat wordt pagina `link_naar_andere_pagina.html` opgevraagd en getoond. Met natuurlijk de daarbij behorende informatie.
+Check maar eens de head tags. We zien heel goed dat de title tags hier tussen staan.
 
 ### OPDRACHT
 
-1. Maak bij deze taak gebruik van bestand: `index.html` en van het bestand `over-mij.html`
-2. Codeer een link op de index.html pagina naar over-mij.html toe. 
-3. Houd je aan de schrijfwijze, dus met aanhalingstekens en naam.extentie
-
-### EINDRESULTAAT
-
-![eerste webpagina](images/resultaat.png)
+1. Bekijk eens de volgende video: [HTML Indenting](https://www.youtube.com/watch?v=FV2td6KJNVA)
 
 ### BRONNEN
 

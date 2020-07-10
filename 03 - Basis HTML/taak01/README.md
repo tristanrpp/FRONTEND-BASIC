@@ -21,6 +21,8 @@ Een webpagina heeft vaak het volgende standaard patroon. Deze HTML-tags zijn **a
   <body></body>
 </html>
 ```
+Zoals je ziet komen de tags `2x` voor. Je ziet __openings-__ en __sluit-tags__.
+De tags met een `/` ervoor zijn sluit tags. Dus bijvoorbeeld `</body>`. Dit betekent het **einde** van dit onderdeel.
 
 > `<!DOCTYPE html>` : tag die aangeeft dat je op deze pagina HTML versie 5 gebruikt
 
@@ -32,9 +34,8 @@ Een webpagina heeft vaak het volgende standaard patroon. Deze HTML-tags zijn **a
 
 > `<body>` : tag waar alle **zichtbare** informatie gezet wordt
 
-Zoals je ziet hebben de bovenstaande `tags` ook nog _sluit_-tags. Dit zijn tags met een `/` ervoor. Dus bijvoorbeeld `</body>`. Dit betekent het **einde** van dit onderdeel.
 
-> Kortom: (Bijna) alle tags hebben een sluit-tag:
+> Bijna alle tags hebben een sluit-tag:
 
 ```html
 <html></html>
@@ -45,9 +46,9 @@ Zoals je ziet hebben de bovenstaande `tags` ook nog _sluit_-tags. Dit zijn tags 
 <p></p>
 ```
 
-Tussen de tags zet je informatie neer die daar hoort.
+__Tussen__ de tags zet je informatie neer die daar hoort.
 
-In de `<body>` tag zet je informatie neer waar je klant of gebruiker wat aan heeft. Bijvoorbeeld zo:
+In de `<body>` tag zet je informatie neer waar je klant of gebruiker wat aan heeft. Tussen de `<h4>` tags zet je een titel neer. Tussen de `<p>`-tags zet je paragraaf tekst neer, net als bij een boek of krantenartikel. Bijvoorbeeld zo:
 
 ```html
 <body>
@@ -67,8 +68,8 @@ Dit is dan het resultaat:
    > - Welkom op mijn website.
    > - U moet nog even geduld hebben. De styling komt later
 3. Lees de tekst en de opdracht goed om tot het eindresultaat te komen
-4. Let erop dat de tag `title` tusse de `head` tags komt te staan
-5. Let erop dat de `h1` en `p` tags tussen de `body` tags komen te staan
+4. Let erop dat de tag `title` tusse de `head` en de `</head>` tags komt te staan
+5. Let erop dat de `h1` en `p` tags tussen de `<body>` en `</body>` tags komen te staan
 
 ### EINDRESULTAAT
 
