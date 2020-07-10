@@ -62,4 +62,4 @@ Je plaatst je CSS blok tussen de  `<head>` tags van je pagina.
 
 ### BRONNEN
 
-- [HTML leren schrijven - Les 2](https://www.youtube.com/watch?v=X58h-d5sHsE)
+- [CSS leren schrijven - Les 2](https://www.youtube.com/watch?v=X58h-d5sHsE)
