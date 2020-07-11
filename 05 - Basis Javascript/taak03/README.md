@@ -1,6 +1,8 @@
 # FRONTEND-BASIC
 
-## Javascript - Variabelen
+## BASIS JAVASCRIPT-TAAK-03
+
+### Variabelen
 
 Je hebt bij de vorige opdracht code gemaakt dat een bepaalde __ouput__ genereerd. Je codeerde, afhankelijk van het type popup-box, een bepaalde __input__ van de gebruiker. Bij promp() kon de gebruiker naast Ok-knop ook iets invullen.
 

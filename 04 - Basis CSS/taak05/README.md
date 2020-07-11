@@ -1,6 +1,8 @@
 # FRONTEND-BASIC
 
-## Ids gebruiken
+## BASIS CSS-TAAK-04
+
+### ID gebruiken
 
 Bij de vorige opdracht heb je meerdere tags een bepaalde class attribuut waarde meegegeven: `class="amsterdam"`. Maar stel nou dat je tussen deze classes ook onderscheid wilt maken. Dan kun je op verschillende wijzes doen. In deze taak leren we je het attribuut `id` te gebruiken. Dit zou er dan zo uit komen te zien:
 

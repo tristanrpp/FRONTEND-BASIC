@@ -1,6 +1,8 @@
 # FRONTEND-BASIC
 
-## Classes gebruiken
+## BASIS CSS-TAAK-04
+
+### Class gebruiken
 
 Bij de vorige opdracht heb je alle `<h4>` tags dezelfde stijl gegeven. Dit geldt ook voor alle `<p>` tags. Je kunt elke afzonderlijke of een paar `<p>` tags anders stijlen als je dat zou willen. Dat doe je met het __class__ attribuut.
 

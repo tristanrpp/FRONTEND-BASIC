@@ -1,6 +1,8 @@
 # FRONTEND-BASIC
 
-## Javascript - Popup boxen
+## BASIS JAVASCRIPT-TAAK-02
+
+### Popup boxen
 
 Bij de vorige opdracht verscheen er een `alert-box`. Dit is een soort waarschuwing naar de gebruiker toe. Dit noemen ze de __`output`__ van een applicatie. De gebruiker kan op de knop `OK` klikken om de box te laten verwijnen. Dus je vraagt de gebruiker om __`input`__.
 

@@ -1,6 +1,8 @@
 # FRONTEND-BASIC
 
-## CSS BLOCK
+## BASIS CSS-TAAK-02
+
+### CSS BLOCK
 
 Je kunt de achtergrond van een webpagina een kleur geven. Door de volgende code te schrijven: `background-color`. Daarnaast kun je ook tekst een kleur geven door `color` te gebruiken.
 

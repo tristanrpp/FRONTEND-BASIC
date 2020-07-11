@@ -2,58 +2,39 @@
 
 ## BASIS HTML-TAAK-04
 
-### Plaatje toevoegen
+### Inspringen
 
-Bij taak 1 kreeg je een introductie  over verschillende HTML-tags. We hadden het over `openings`- en `sluit`-tags. Tussen de tags zetten we de informatie. Bij een image tag werkt het net even anders. Een image tag `<img>` heeft geen sluit tag.
+Bij de vorige taak vertelde we je dat er 2 belangrijke afspraken zijn:
+
+- __Afspraak 1:__ Zet de juiste informatie tussen de tags
+- __Afspraak 2:__ Inspringen (indenting) is verplicht, dit zorgt voor leesbaarheid
+
+We gaan nu Afspraak 2 behandelen: inspringen. Je moet ten __allertijde__ letten op het inspringen van je code. Dit geldt bij HTML, CSS, JAVASCRIPT, PHP, C#, Python enzovoort.
+
+Inspringen betekent dat je op je TAB-toets drukt. Inspringen betekent dat sommige tags iets meer naar rechts staan dan andere.
+Kijk eens naar de html-code uit de vorige opdracht:
 
 ```html
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Hier komt de titel</title>
+    <title>Artikel over nerds</title>
   </head>
   <body>
-    Hier staat zichtbare informatie. De gebruiker kan dit lezen
-    <img src="mijn_plaatje.jpg">
+    <h1>Alle coders zijn nerds</h1>
+    <p>Sommige mensen zeggen dat nerds slimme mensen zijn, anderen zeggen dat nerds gewoon nieuwsgierige mensen zijn.</p>
   </body>
 </html>
 ```
 
-Soms wil je ook een plaatje toevoegen aan je website. Daarvoor gebruiken we de `<img>` tag. Dit staat voor __image__ wat dus plaatje/foto betekent.
+Alle tags die tussen `<html>` en </html> staan zijn ingesprongen ten opzichte van diezelfde tags. Ze staan allemaal een stukje naar rechts. Dit geldt ook voor alle tags die tussen `<body>` en `</body>` tags staan. __Dit zorgt voor een betere leesbaarheid__
 
-Deze `img`-tag heeft geen sluit tag. Je zul vanzelf bekend worden met welke tag wel en welke niet. Door te gaan bouwen krijg je ervaring. Zo simpel is het.
-
-Deze `img`-tag heeft wel een _attribuut_. Een attribuut is een eigenschap. Net als lichaamslengte en haarkleur een eigenschap is. Zo is `src` ook een eigenschap, van `img`.
-`src` staat voor source ofwel bron. Wat is de bron van het plaatje? Wat is de lokatie van het plaatje? Dat zet je dan achter het `=`-teken tussen aanhalingstekens `"`.
-
-> Als het plaatje __in dezelfde map staat__ als het html bestand dan kun hoef je alleen de naam en de extentie van het plaatje op te geven.
-
-* taak03 (map)
-  * index.html
-  * mijn_plaatje.jpg
-
->
-> ```html
->
-> >  <img src="mijn_plaatje.jpg">
->
-> ```
-
-Je ziet in dit voorbeeld dat ook de extentie (bestandstype) wordt opgeschreven. Dit is verplicht bij het _attribuut_ `src`. Je codeert eigenlijk alles zo specifiek en nauwkeurig mogelijk. Daarnaast staat de naam van het plaatje en de extentie tussen aanhalingstekens. Dit doe je voor alle attributen van een HTML-tags
-
-> Opmerking: Alle zichtbare elemente, en dus ook een plaatje, plaats je altijd tussen de `<body>`-tags
+Check maar eens de head tags. We zien heel goed dat de title tags hier tussen staan.
 
 ### OPDRACHT
 
-1. Maak bij deze taak gebruik van het bestand van taak01: `index.html`
-2. Download een plaatje of afbeelding dat je gaaf vindt.
-3. Zet dit plaatje in de map van deze taak
-4. Codeer met de `img` tag het plaatje zichtbaar op de webpagina.
-
-### EINDRESULTAAT
-
-![eerste plaatje](images/resultaat.png)
+1. Bekijk eens de volgende video: [HTML Indenting](https://www.youtube.com/watch?v=FV2td6KJNVA)
 
 ### BRONNEN
 
-* [W3Schools - HTML Tutorial](https://www.w3schools.com/html/)
+- [W3Schools - HTML Tutorial](https://www.w3schools.com/html/)

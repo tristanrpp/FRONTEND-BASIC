@@ -2,60 +2,58 @@
 
 ## BASIS HTML-TAAK-05
 
-### Links maken
+### Plaatje toevoegen
 
-Ok. je hebt nu een taak gedaan met een basis pagina en een taak waarbij je een plaatje invoegd in je pagina.
-In deze taak gaan we twee webpagina's aan elkaar linken.
-
-Het gehele online web bestaat uit links. Als je ergens op klikt dan klik je op een URL-link. (Uniform Resource Locator).
-Een link wordt ook wel een `anchor-tag` genoemd. Een anker of een haakje. Een haakje naar iets anders toe.
-
-Een link heeft ook een _attribuut_, net als bij `<img>` waarbij `src` gebruikt werd, heeft een anchor-tag `<a>` een `href` attribuut.
-
-Bij `href` zet je de lokatie van een pagina neer, voorbeelden zijn:
-
-- `https://www.rocva.nl`
-- `https://www.eagledev.nl`
-- `https://www.outlook.com`
-
-Maar ook
-
-- link_naar_andere_pagina.html
-- tweede_pagina.html
-
-Al deze `url`s staan tussen aanhalingstekens, net als bij `<img>`
+Bij taak 1 kreeg je een introductie  over verschillende HTML-tags. We hadden het over `openings`- en `sluit`-tags. Tussen de tags zetten we de informatie. Bij een image tag werkt het net even anders. Een image tag `<img>` heeft geen sluit tag.
 
 ```html
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Mijn eerste link</title>
+    <title>Hier komt de titel</title>
   </head>
   <body>
-
-    <a href="link_naar_andere_pagina.html">Link naar pagina 2</a>
-
+    Hier staat zichtbare informatie. De gebruiker kan dit lezen
+    <img src="mijn_plaatje.jpg">
   </body>
 </html>
 ```
 
-Met dit resultaat:
+Soms wil je ook een plaatje toevoegen aan je website. Daarvoor gebruiken we de `<img>` tag. Dit staat voor __image__ wat dus plaatje/foto betekent.
 
-![Link](images/link.png)
+Deze `img`-tag heeft geen sluit tag. Je zul vanzelf bekend worden met welke tag wel en welke niet. Door te gaan bouwen krijg je ervaring. Zo simpel is het.
 
-Als je op deze link klikt dat wordt pagina `link_naar_andere_pagina.html` opgevraagd en getoond. Met natuurlijk de daarbij behorende informatie.
+Deze `img`-tag heeft wel een _attribuut_. Een attribuut is een eigenschap. Net als lichaamslengte en haarkleur een eigenschap is. Zo is `src` ook een eigenschap, van `img`.
+`src` staat voor source ofwel bron. Wat is de bron van het plaatje? Wat is de lokatie van het plaatje? Dat zet je dan achter het `=`-teken tussen aanhalingstekens `"`.
+
+> Als het plaatje __in dezelfde map staat__ als het html bestand dan kun hoef je alleen de naam en de extentie van het plaatje op te geven.
+
+* taak03 (map)
+  * index.html
+  * mijn_plaatje.jpg
+
+>
+> ```html
+>
+> >  <img src="mijn_plaatje.jpg">
+>
+> ```
+
+Je ziet in dit voorbeeld dat ook de extentie (bestandstype) wordt opgeschreven. Dit is verplicht bij het _attribuut_ `src`. Je codeert eigenlijk alles zo specifiek en nauwkeurig mogelijk. Daarnaast staat de naam van het plaatje en de extentie tussen aanhalingstekens. Dit doe je voor alle attributen van een HTML-tags
+
+> Opmerking: Alle zichtbare elemente, en dus ook een plaatje, plaats je altijd tussen de `<body>`-tags
 
 ### OPDRACHT
 
-1. Maak bij deze taak gebruik van bestand: `index.html` en van het bestand `over-mij.html`
-2. Codeer een link op de index.html pagina naar over-mij.html toe.
-3. Houd je aan de schrijfwijze, dus met aanhalingstekens en naam.extentie
+1. Maak bij deze taak gebruik van het bestand van taak01: `index.html`
+2. Download een plaatje of afbeelding dat je gaaf vindt.
+3. Zet dit plaatje in de map van deze taak
+4. Codeer met de `img` tag het plaatje zichtbaar op de webpagina.
 
 ### EINDRESULTAAT
 
-![eerste webpagina](images/resultaat.png)
+![eerste plaatje](images/resultaat.png)
 
 ### BRONNEN
 
-- [W3Schools - HTML Tutorial](https://www.w3schools.com/html/)
-- [Een link maken - Les 5 -](https://www.youtube.com/watch?v=ywTp238aqSE)
+* [W3Schools - HTML Tutorial](https://www.w3schools.com/html/)

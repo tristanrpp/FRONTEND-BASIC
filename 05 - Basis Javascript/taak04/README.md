@@ -1,6 +1,8 @@
 # FRONTEND-BASIC
 
-## Javascript - Variabelen
+## BASIS JAVASCRIPT-TAAK-04
+
+### querySelector
 
 Ok. Nu gaan we echt geleerde dingen combineren.
 
@@ -8,7 +10,7 @@ Je weet dat er verschillende `HTML`-tags zijn die je op verschillende wijzes kun
 
 Je kunt met Javascript ook HTML-tags ook wel HTML-elementen genoemd aanpassen of zelf verwijderen.
 
-Om ze te kunnen beinvloeden met JS moet we een HTML-tag of HTML-element zien te vinden. Dit werkt ongeveer hetzelfde als bij CSS. Bij CSS gebruikte we de tag naam om bijvoorbeeld de tekst rood te maken
+Om ze te kunnen beinvloeden met JS moet we een HTML-tag of HTML-element zien te vinden. Dit werkt ongeveer hetzelfde als bij CSS. Bij CSS gebruikte we de `tag` naam om bijvoorbeeld de tekst rood te maken
 
 ```css
 h1{
@@ -24,7 +26,7 @@ Bij Javscript werkt dat ongeveer net zo.
 </script>
 ```
 
-Laten we de code even ontleden:
+Laten we de code even uitleggen:
 
 ```js
     let element = //dit is het aamaken van de variabele

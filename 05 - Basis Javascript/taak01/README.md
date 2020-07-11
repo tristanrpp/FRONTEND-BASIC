@@ -1,6 +1,8 @@
 # FRONTEND-BASIC
 
-## Javascript - intro
+## BASIS JAVASCRIPT-TAAK-01
+
+### Introductie
 
 Je hebt inmiddels geleerd dat je met HTML de structuur van een site kunt coderen. Daarnaast heb je geleerd dat je met CSS diezelfde tags een stijl kunt geven.
 

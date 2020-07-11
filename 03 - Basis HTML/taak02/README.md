@@ -2,76 +2,76 @@
 
 ## BASIS HTML-TAAK-02
 
-### De juiste informatie tussen de tags
+### Wat is HTML
 
-Bij de vorige taak maakte je kennis met HTML-tags. Ook spraken we over het plaatsen van informatie tussen de tags. Je zag ook dat er allerlei verschillende tags zijn. Enkele zijn ook toegelicht zoals, `<head>`, `<title>` en `<body>`.
+HTML staat voor Hyper Text Markup Language. Het is een opmaaktaal. Deze taal wordt uitgevoerd in de browser.
 
-Bij coderen is het heel belangrijk om je aan de standaard afspraken te houden. Wij zullen deze afspraken behandelen, in deze taak _Afspraak 1._
+Een webpagina is opgebouwd uit HTML-tags. Tags kun je vergelijken met Lego blokjes. Net als bij Lego kun je hiermee de **STRUCTUUR** van een website bepalen.
 
-- __Afspraak 1:__ Zet de juiste informatie tussen de tags
-- __Afspraak 2:__ Inspringen (indenting) is verplicht, dit zorgt voor leesbaarheid
+![lego](images/lego.jpg)
 
-### Afspraak 1
+De meeste webpagina's die jij gaat maken hebben een standaard patroon.
 
-Zet de juiste informatie tussen de tags. Stel je wilt een artikel voor een webpagina maken. Dan gebruik je een kop en een paragraaf. De tekst van het artikel komt natuurlijk op de plek van de paragraaf. De titel komt dan natuurlijk op de plek van de kop.
-Met HTMl ziet dat er zo uit:
+Een webpagina heeft vaak het volgende standaard patroon. Deze HTML-tags zijn **altijd** aanwezig op je website:
 
 ```html
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Artikel over nerds</title>
+    <title></title>
   </head>
-  <body>
-    <h1>Alle coders zijn nerds</h1>
-    <p>Sommige mensen zeggen dat nerds slimme mensen zijn, anderen zeggen dat nerds gewoon nieuwsgierige mensen zijn.</p>
-  </body>
+  <body></body>
 </html>
 ```
 
-Je ziet dat de tekst `Alle coders zijn nerds` tussen de `<h1>` en `</h1>` staat. Dit betekent dat deze tekst groter en dikker getoond wordt.
+Zoals je ziet komen de tags `2x` voor. Je ziet __openings-__ en __sluit-tags__.
+De tags met een `/` ervoor zijn sluit tags. Dus bijvoorbeeld `</body>`. Dit betekent het **einde** van dit onderdeel.
 
-![Koptekst](images/kop.png)
+> * `<!DOCTYPE html>` : tag die aangeeft dat je op deze pagina HTML versie 5 gebruikt
+> * `<html>` : tag die aangeeft dat je html tags gaat gebruken
+> * `<head>` : tag bevat informatie dat voor een normale gebruiker __niet zichtbaar__ is
+> * `<title>` : tag waarin de titel van de webpagina genoteerd wordt
+> * `<body>` : tag waar alle **zichtbare** informatie gezet wordt
+> * Bijna alle tags hebben een sluit-tag:
 
-Er bestaan nog meer kopteksten, ook wel headers genoemd.
+```html
+<html></html>
+<head></head>
+<title></title>
+<body></body>
+<h1></h1>
+<p></p>
+```
 
-![Koptekst](images/koppen.png)
+__Tussen__ de tags zet je informatie neer die daar hoort.
 
-`<h6>` is dus de kleinste kop.
+In de `<body>` tag zet je informatie neer waar je klant of gebruiker wat aan heeft. Tussen de `<h4>` tags zet je een titel neer. Tussen de `<p>`-tags zet je paragraaf tekst neer, net als bij een boek of krantenartikel. Bijvoorbeeld zo:
 
-Maar er zijn ook nog andere tags die veel gebruikt worden:
+```html
+<body>
+  <h4>Hier komt voor de gebruiker zichtbare informatie te staan</h4>
+  <p>Dit is een paragraaf</p>
+</body>
+```
 
-- `<div>` wordt gebruikt voor meerdere situaties
-- `<aside>` wordt gebruikt om een zijkant van een pagina aan te geven
-- `<address>` wordt gebruikt om een adres aan te geven
-- `<main>` wordt gebruikt om het belangrijkste deel van de zichtbare info aan te geven
-- `<footer>` wordt gebruikt voor de onderkant
-
-Er zijn er nog veel meer. Ga lekker coderen en dan kom je er vanzelf achter welke er nog meer zijn.
+Dit is dan het resultaat:
+![een voorbeeld](images/index.png)
 
 ### OPDRACHT
 
 1. Maak bij deze taak gebruik van bestand: `index.html`
-2. Maak 3 artikelen met ieder een andere koptekst-grootte
-3. Maak daarbij gebruik van paragraaf `<p>` tags.
-4. Zet de onderstaande teksten op de juiste plek in de pagina
+2. Maak gebruik van de standaard tags en vul de volgende informatie in op de juiste plek, kies uit `title`, `h1` en `p` tags
+   > - Een webpagina maken is makkelijk
+   > - Welkom op mijn website.
+   > - U moet nog even geduld hebben. De styling komt later
+3. Lees de tekst en de opdracht goed om tot het eindresultaat te komen
+4. Let erop dat de tag `title` tusse de `head` en de `</head>` tags komt te staan
+5. Let erop dat de `h1` en `p` tags tussen de `<body>` en `</body>` tags komen te staan
 
-#### Artikel 1
+### EINDRESULTAAT
 
-- titel = 'Nieuwe patatzaak is geopend!'
-- tekst = 'Een bijzondere patatzaak aan de Keizersgracht wordt morgen 20 oktober geopend.'
-
-#### Artikel 2
-
-- titel = 'Burgermeester Halsema houd de (nacht)wacht'
-- tekst = 'De Amsterdamse Burgemeester houd wel van een biertje'
-
-#### Artikel 3
-
-- titel = 'Frenkie De Jong scoort drie keer'
-- tekst = 'De Jong heeft een van zijn betere dagen afgelopen zondag gehad bij FC Barcelona, hij scoorde weer eens!'
+![eerste webpagina](images/resultaat.png)
 
 ### BRONNEN
 
 - [W3Schools - HTML Tutorial](https://www.w3schools.com/html/)
-- [HTML leren schrijven - Les 1](https://www.youtube.com/watch?v=3ejolTCFrYg)

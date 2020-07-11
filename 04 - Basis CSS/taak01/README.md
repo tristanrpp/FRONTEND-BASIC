@@ -1,6 +1,8 @@
 # FRONTEND-BASIC
 
-## Introductie CSS
+## BASIS CSS-TAAK-01
+
+### Introductie CSS
 
 CSS staat voor Cascading Style Sheets. Hiermee kan je een webpagina stijlen. Van eenvoudig tot zeer complex. CSS-code is anders opgebouwd en volgt andere regels dan HTML-code. Hier staat een voorbeeld:
 

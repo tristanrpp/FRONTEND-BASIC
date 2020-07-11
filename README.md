@@ -31,12 +31,21 @@ De technieken HTML, CSS en Javascript worden vaak gebruikt als introductie talen
   - Taak05 > Websites bestaan uit blokken 4
   - Taak06 > Formulieren bekijken
 - Basis HTML
-  - Taak00 > Hoe ga je te werk
-  - Taak01 > Wat is HTML
-  - Taak02 > De juiste informatie tussen de tags
-  - Taak03 > Inspringen
-  - Taak04 > Plaatje toevoegen
-  - Taak05 > Links maken
+  - Taak01 > Hoe ga je te werk
+  - Taak02 > Wat is HTML
+  - Taak03 > De juiste informatie tussen de tags
+  - Taak04 > Inspringen
+  - Taak05 > Plaatje toevoegen
+  - Taak06 > Links maken
   - Taak07 > Developer Tools
 - Basis CSS
+  - Taak01 > Introductie CSS
+  - Taak02 > CSS BLOCK
+  - Taak03 > Meerdere tags stijlen
+  - Taak04 > Class gebruiken
+  - Taak05 > ID gebruiken
 - Basis Javscript
+  - Taak01 > Introductie
+  - Taak02 > Popup boxen
+  - Taak03 > Variabelen
+  - Taak04 > querySelector

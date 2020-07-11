@@ -1,6 +1,8 @@
 # FRONTEND-BASIC
 
-## Meerdere tags stijlen
+## BASIS CSS-TAAK-03
+
+### Meerdere tags stijlen
 
 Bij de vorige taak heb je de `<body>` en de `<h1>` tag gestijld. Nu gaan we nog meer tags stijlen.
 
