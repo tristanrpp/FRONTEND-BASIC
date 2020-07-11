@@ -1,4 +1,6 @@
-## Wat is Frontend?
+# FRONTEND-BASIC
+
+## WAT IS FRONTEND-TAAK-04
 
 ### Frontend vs Backend Development
 
@@ -12,3 +14,5 @@ Als we spreken over het `client-server` model dan is
 - de _server_ kant de backend. Dus het deel dat de data afhandeld.
 
 ### OPDRACHT
+
+1. Zoek een afbeelding dat uitlegt wat het verschil is tussen Backend en Frontend

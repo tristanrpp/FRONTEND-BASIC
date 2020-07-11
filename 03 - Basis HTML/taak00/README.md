@@ -1,6 +1,8 @@
 # FRONTEND-BASIC
 
-## Hoe ga je te werk
+## BASIS HTML-TAAK-00
+
+### Hoe ga je te werk
 
 Tijdens je codeer-lessen ga je gebruik maken van VS-Code. Dit is een professionele teksteditor. Met deze editor ga je code maken, wijzigen en verwijderen. Je slaat je bestanden op en je bekijkt je resultaat in de browser.
 

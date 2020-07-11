@@ -1,5 +1,9 @@
 # FRONTEND-BASIC
 
+## Uitleg
+
+De technieken HTML, CSS en Javascript worden vaak gebruikt als introductie talen bij software ontwikkel opleidingen. Dit geldt ook op jouw opleiding aan het ROC van Amsterdam. Aan het einde van deze module kan je een eenvoudige website maken die iets over jezelf verteld.
+
 ## LEERDOELEN
 
 - [ ]  Ik gebruik de standaard tags `<html>`, `<head>`, `<body>` voor iedere website
@@ -14,8 +18,25 @@
 
 ## INHOUD
 
-1. Wat is frontend
-2. Kijken naar design
-3. Basis HTML
-4. Basis CSS
-5. Basis Javscript
+- 01 - Wat is frontend
+  - Taak01 > Introdutie
+  - Taak02 > What is a Frontend Feveloper?
+  - Taak03 > Welke beroepen zijn er voor een FE?
+  - Taak04 > Wat is het verschil tussen Frontend & Backend?
+- 02 - Kijken naar design
+  - Taak01 > Websites bekijken
+  - Taak02 > Websites bestaan uit blokken
+  - Taak03 > Websites bestaan uit blokken 2
+  - Taak04 > Websites bestaan uit blokken 3
+  - Taak05 > Websites bestaan uit blokken 4
+  - Taak06 > Formulieren bekijken
+- Basis HTML
+  - Taak00 > Hoe ga je te werk
+  - Taak01 > Wat is HTML
+  - Taak02 > De juiste informatie tussen de tags
+  - Taak03 > Inspringen
+  - Taak04 > Plaatje toevoegen
+  - Taak05 > Links maken
+  - Taak07 > Developer Tools
+- Basis CSS
+- Basis Javscript

@@ -1,6 +1,8 @@
 # FRONTEND-BASIC
 
-## Bekijk de volgende websites eens
+## KIJKEN NAAR DESIGN-TAAK-01
+
+### Bekijk de volgende websites eens
 
 ### OPDRACHT
 
@@ -10,7 +12,6 @@ Bekijk de onderstaande website en beantwoord de vragen
 > - [AT5](https://www.at5.nl/)
 > - [Tweakers](https://tweakers.net/)
 > - [Twitch](https://www.twitch.tv/)
-
 
 1. Noem twee overeenkomsten van deze sites.
 2. Noem drie verschillen maar laat de kleuren en lettertypes buiten je opsomming.

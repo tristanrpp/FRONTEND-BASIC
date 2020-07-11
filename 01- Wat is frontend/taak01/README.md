@@ -1,4 +1,8 @@
-# Wat is Frontend?
+# FRONTEND-BASIC
+
+## WAT IS FRONTEND-TAAK-01
+
+### Introductie
 
 ### Definitie
 

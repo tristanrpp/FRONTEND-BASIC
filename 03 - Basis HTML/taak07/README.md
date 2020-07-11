@@ -1,5 +1,7 @@
 # FRONTEND-BASIC
 
+## BASIS HTML-TAAK-07
+
 ## Developer Tools
 
 Als developer ga je gebruik maken van diverse tools. Een daarvan is Google Chrome DevTools. Je kunt deze tools op verschillende manieren starten. Druk eens bijvoorbeeld op `F12` van je toetsenbord. Maar je kunt ook je `rechtermuisknop` gebruiken. Die laatste methode gaan we in de opdracht gebruiken

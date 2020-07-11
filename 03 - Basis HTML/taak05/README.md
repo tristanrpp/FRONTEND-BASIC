@@ -1,6 +1,8 @@
 # FRONTEND-BASIC
 
-## Links maken
+## BASIS HTML-TAAK-05
+
+### Links maken
 
 Ok. je hebt nu een taak gedaan met een basis pagina en een taak waarbij je een plaatje invoegd in je pagina.
 In deze taak gaan we twee webpagina's aan elkaar linken.

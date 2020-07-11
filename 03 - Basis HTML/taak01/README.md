@@ -1,6 +1,8 @@
 # FRONTEND-BASIC
 
-## Wat is HTML
+## BASIS HTML-TAAK-01
+
+### Wat is HTML
 
 HTML staat voor Hyper Text Markup Language. Het is een opmaaktaal. Deze taal wordt uitgevoerd in de browser.
 

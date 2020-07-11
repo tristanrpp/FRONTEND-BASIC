@@ -1,5 +1,7 @@
 # FRONTEND-BASIC
 
+## KIJKEN NAAR DESIGN-TAAK-02
+
 ### Websites bestaan uit blokken
 
 ### OPDRACHT

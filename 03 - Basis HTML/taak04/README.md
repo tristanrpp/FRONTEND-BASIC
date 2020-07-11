@@ -1,6 +1,8 @@
 # FRONTEND-BASIC
 
-## Plaatje toevoegen
+## BASIS HTML-TAAK-04
+
+### Plaatje toevoegen
 
 Bij taak 1 kreeg je een introductie  over verschillende HTML-tags. We hadden het over `openings`- en `sluit`-tags. Tussen de tags zetten we de informatie. Bij een image tag werkt het net even anders. Een image tag `<img>` heeft geen sluit tag.
 

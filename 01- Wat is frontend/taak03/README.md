@@ -1,6 +1,8 @@
-## Wat is Frontend?
+# FRONTEND-BASIC
 
-### Welke beroepen zijn er allemaal voor Frontend Developer?
+## WAT IS FRONTEND-TAAK-03
+
+### Welke beroepen zijn er allemaal voor Frontend Develope
 
 ### OPDRACHT
 

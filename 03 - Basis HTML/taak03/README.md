@@ -1,6 +1,8 @@
 # FRONTEND-BASIC
 
-## Inspringen
+## BASIS HTML-TAAK-03
+
+### Inspringen
 
 Bij de vorige taak vertelde we je dat er 2 belangrijke afspraken zijn:
 

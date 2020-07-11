@@ -1,6 +1,8 @@
 # FRONTEND-BASIC
 
-## De juiste informatie tussen de tags
+## BASIS HTML-TAAK-02
+
+### De juiste informatie tussen de tags
 
 Bij de vorige taak maakte je kennis met HTML-tags. Ook spraken we over het plaatsen van informatie tussen de tags. Je zag ook dat er allerlei verschillende tags zijn. Enkele zijn ook toegelicht zoals, `<head>`, `<title>` en `<body>`.
 
