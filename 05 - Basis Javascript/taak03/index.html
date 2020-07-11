@@ -7,8 +7,13 @@
 </head>
 <body>
     <script>
-        let mijnVoornaam = prompt("Wat is je naam?");
-        alert(mijnVoornaam);
+        let prijsProduct = 499;
+        let zomerKorting = 15; //percentages
+        let ledenKorting = 10; //percentages
+        let totaalPrijs = prijsProduct - (prijsProduct * ledenKorting /100) - (prijsProduct * zomerKorting/100);
+
+        alert(totaalPrijs); // 299.25
+
     </script>
 </body>
 </html>

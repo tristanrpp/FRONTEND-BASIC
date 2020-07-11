@@ -29,8 +29,9 @@ Er zijn nog meer van dit soort type `popup`-boxen
 ### OPDRACHT
 
 1. Open `index.html` in je browser.
-2. Verander de alert-box voor de overige boxen: confirm() en prompt()
-3. Check je antwoorden met het resultaat
+2. Verander de alert-box naar confirm()
+3. Verander de alert-box naar prompt()
+4. Check je antwoorden met het resultaat
 
 ### RESULTAAT
 

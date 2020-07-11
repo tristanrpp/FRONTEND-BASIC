@@ -47,5 +47,6 @@ De technieken HTML, CSS en Javascript worden vaak gebruikt als introductie talen
 - Basis Javscript
   - Taak01 > Introductie
   - Taak02 > Popup boxen
-  - Taak03 > Variabelen
-  - Taak04 > querySelector
+  - Taak03 > Variabelen 1
+  - Taak04 > Variabelen 2
+  - Taak05 > querySelector
