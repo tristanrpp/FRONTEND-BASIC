@@ -48,3 +48,4 @@ Gebruik __tenminste__ de volgende technieken:
 
 - `alert()` of `prompt()` of `confirm()`
 - `variabelen`
+- `let`
