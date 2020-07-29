@@ -6,7 +6,7 @@
 
 ### OPDRACHT
 
-Bekijk de onderstaande website en beantwoord de vragen
+Bekijk de onderstaande websites en beantwoord de vragen
 
 > - [google](https://www.google.com/)
 > - [AT5](https://www.at5.nl/)
