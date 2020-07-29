@@ -63,7 +63,7 @@ Er zijn er nog veel meer. Ga lekker coderen en dan kom je er vanzelf achter welk
 
 #### Artikel 2
 
-- titel = 'Burgermeester Halsema houd de (nacht)wacht'
+- titel = 'Burgermeester Halsema houdt de (nacht)wacht'
 - tekst = 'De Amsterdamse Burgemeester houd wel van een biertje'
 
 #### Artikel 3
