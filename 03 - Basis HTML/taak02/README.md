@@ -54,7 +54,7 @@ In de `<body>` tag zet je informatie neer waar je klant of gebruiker wat aan hee
 </body>
 ```
 
-Dit is dan het resultaat:
+Dit is dan het resultaat: 
 ![een voorbeeld](images/index.png)
 
 ### OPDRACHT
