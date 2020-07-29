@@ -4,12 +4,12 @@
 
 ### Inspringen
 
-Bij de vorige taak vertelde we je dat er 2 belangrijke afspraken zijn:
+Bij de vorige taak vertelden we je dat er 2 belangrijke afspraken zijn:
 
 - __Afspraak 1:__ Zet de juiste informatie tussen de tags
 - __Afspraak 2:__ Inspringen (indenting) is verplicht, dit zorgt voor leesbaarheid
 
-We gaan nu Afspraak 2 behandelen: inspringen. Je moet ten __allertijde__ letten op het inspringen van je code. Dit geldt bij HTML, CSS, JAVASCRIPT, PHP, C#, Python enzovoort.
+We gaan nu Afspraak 2 behandelen: inspringen. Je moet te __allen tijde__ letten op het inspringen van je code. In de toekomst zul je zien dat dit ook geldt bij HTML, CSS, JAVASCRIPT, PHP, C#, Python enzovoort.
 
 Inspringen betekent dat je op je TAB-toets drukt. Inspringen betekent dat sommige tags iets meer naar rechts staan dan andere.
 Kijk eens naar de html-code uit de vorige opdracht:
@@ -28,8 +28,9 @@ Kijk eens naar de html-code uit de vorige opdracht:
 ```
 
 Alle tags die tussen `<html>` en </html> staan zijn ingesprongen ten opzichte van diezelfde tags. Ze staan allemaal een stukje naar rechts. Dit geldt ook voor alle tags die tussen `<body>` en `</body>` tags staan. __Dit zorgt voor een betere leesbaarheid__
+De tags tussen `<title>` en `<\title>` staan, hebben zelfs een dubbele inspringing.
 
-Check maar eens de head tags. We zien heel goed dat de title tags hier tussen staan.
+Check maar eens de head-tags. We zien heel goed dat de title-tags hier tussen staan.
 
 ### OPDRACHT
 
