@@ -6,10 +6,10 @@
 
 Bij de vorige taak maakte je kennis met HTML-tags. Ook spraken we over het plaatsen van informatie tussen de tags. Je zag ook dat er allerlei verschillende tags zijn. Enkele zijn ook toegelicht zoals, `<head>`, `<title>` en `<body>`.
 
-Bij coderen is het heel belangrijk om je aan de standaard afspraken te houden. Wij zullen deze afspraken behandelen, in deze taak _Afspraak 1._
+Bij coderen is het heel belangrijk om je aan de standaardafspraken te houden. Wij zullen deze afspraken behandelen, in deze taak _Afspraak 1._
 
 - __Afspraak 1:__ Zet de juiste informatie tussen de tags
-- __Afspraak 2:__ Inspringen (indenting) is verplicht, dit zorgt voor leesbaarheid
+- __Afspraak 2:__ Inspringen (indenting) is verplicht, dit zorgt voor leesbaarheid. Inspringen doe je met de TAB-toets.
 
 ### Afspraak 1
 
@@ -47,7 +47,7 @@ Maar er zijn ook nog andere tags die veel gebruikt worden:
 - `<main>` wordt gebruikt om het belangrijkste deel van de zichtbare info aan te geven
 - `<footer>` wordt gebruikt voor de onderkant
 
-Er zijn er nog veel meer. Ga lekker coderen en dan kom je er vanzelf achter welke er nog meer zijn.
+Er zijn er nog veel meer. Door te blijven coderen kom je er vanzelf achter welke er nog meer zijn.
 
 ### OPDRACHT
 
@@ -64,7 +64,7 @@ Er zijn er nog veel meer. Ga lekker coderen en dan kom je er vanzelf achter welk
 #### Artikel 2
 
 - titel = 'Burgermeester Halsema houdt de (nacht)wacht'
-- tekst = 'De Amsterdamse Burgemeester houd wel van een biertje'
+- tekst = 'De Amsterdamse Burgemeester houdt wel van een biertje'
 
 #### Artikel 3
 
