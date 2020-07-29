@@ -2,7 +2,7 @@
 
 ## Uitleg
 
-De technieken HTML, CSS en Javascript worden vaak gebruikt als introductie talen bij software ontwikkel opleidingen. Dit geldt ook op jouw opleiding aan het ROC van Amsterdam. Aan het einde van deze module kan je een eenvoudige website maken die iets over jezelf verteld.
+De technieken HTML, CSS en Javascript worden vaak gebruikt als introductietalen bij software-ontwikkelopleidingen. Dit geldt ook voor jouw opleiding aan het ROC van Amsterdam. Aan het einde van deze module kan je een eenvoudige website maken die iets over jezelf vertelt.
 
 ## LEERDOELEN
 
@@ -10,18 +10,18 @@ De technieken HTML, CSS en Javascript worden vaak gebruikt als introductie talen
 - [ ]  Ik volg de regels van webdevelopment
   - [ ]  De juiste informatie tussen de juiste __tags__
   - [ ]  Ik spring tags in (indenting) om de leesbaarheid te vegroten
-- [ ]   Ik stijl met behulp van een CSS-blok de verschillende HTML-tags: `<h1>`, `<p>`, `<a>`, `<img>`
-- [ ]  Ik stijl specifieke HTML-tags met een `id-attribuut` door een `#` te gebruiken in de CSS-code
-- [ ]  Ik stijl specifieke HTML-tags met een `class-attribuut` door een `.` te gebruiken in de CSS-code
+- [ ]  Ik stile met behulp van een CSS-blok de verschillende HTML-tags: `<h1>`, `<p>`, `<a>`, `<img>`
+- [ ]  Ik stile specifieke HTML-tags met een `id-attribuut` door een `#` te gebruiken in de CSS-code
+- [ ]  Ik stile specifieke HTML-tags met een `class-attribuut` door een `.` te gebruiken in de CSS-code
 - [ ]  Ik kan interactie met Javascript mogelijk maken door de popup-boxen `alert`, `prompt` en `confirm` te gebruiken
 - [ ]  Ik codeer variabelen met het woordje `let` en geef deze een specifieke waarde zoals: `let mijnLeeftijd = 16;`
 
 ## INHOUD
 
-- 01 - Wat is frontend
-  - Taak01 > Introdutie
-  - Taak02 > What is a Frontend Feveloper?
-  - Taak03 > Welke beroepen zijn er voor een FE?
+- 01 - Wat is frontend?
+  - Taak01 > Introductie
+  - Taak02 > Wat is a Frontend Developer?
+  - Taak03 > Welke beroepen zijn er voor een FD?
   - Taak04 > Wat is het verschil tussen Frontend & Backend?
 - 02 - Kijken naar design
   - Taak01 > Websites bekijken
@@ -31,8 +31,8 @@ De technieken HTML, CSS en Javascript worden vaak gebruikt als introductie talen
   - Taak05 > Websites bestaan uit blokken 4
   - Taak06 > Formulieren bekijken
 - Basis HTML
-  - Taak01 > Hoe ga je te werk
-  - Taak02 > Wat is HTML
+  - Taak01 > Hoe ga je te werk?
+  - Taak02 > Wat is HTML?
   - Taak03 > De juiste informatie tussen de tags
   - Taak04 > Inspringen
   - Taak05 > Plaatje toevoegen
