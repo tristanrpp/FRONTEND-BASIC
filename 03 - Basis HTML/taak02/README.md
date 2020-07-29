@@ -2,7 +2,7 @@
 
 ## BASIS HTML-TAAK-02
 
-### Wat is HTML
+### Wat is HTML?
 
 HTML staat voor Hyper Text Markup Language. Het is een opmaaktaal. Deze taal wordt uitgevoerd in de browser.
 
