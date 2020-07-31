@@ -34,7 +34,7 @@ Je gaat nu de volgende tags stilen: `<p>` en `<h4>` en `<a>`.
 
 - titel = 'Frenkie De Jong scoort drie keer'
 - tekst = 'De Jong heeft een van zijn betere dagen afgelopen zondag gehad bij FC Barcelona, hij scoorde weer eens!'
-- link = "artikel3.html"
+- link = "artikel3.html" 
 
 ### RESULTAAT
 
