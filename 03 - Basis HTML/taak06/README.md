@@ -4,7 +4,7 @@
 
 ### Links maken
 
-Ok. je hebt nu een taak gedaan met een basis pagina en een taak waarbij je een plaatje invoegd in je pagina.
+Oké, je hebt nu een taak gedaan met een basispagina en een taak waarbij je een plaatje invoegt in je pagina.
 In deze taak gaan we twee webpagina's aan elkaar linken.
 
 Het gehele online web bestaat uit links. Als je ergens op klikt dan klik je op een URL-link. (Uniform Resource Locator).
@@ -43,7 +43,7 @@ Met dit resultaat:
 
 ![Link](images/link.png)
 
-Als je op deze link klikt dat wordt pagina `link_naar_andere_pagina.html` opgevraagd en getoond. Met natuurlijk de daarbij behorende informatie.
+Als je op deze link klikt dan wordt pagina `link_naar_andere_pagina.html` opgevraagd en getoond, met natuurlijk de daarbij behorende informatie.
 
 ### OPDRACHT
 
