@@ -2,20 +2,20 @@
 
 ## BASIS CSS-TAAK-03
 
-### Meerdere tags stijlen
+### Meerdere tags stilen
 
-Bij de vorige taak heb je de `<body>` en de `<h1>` tag gestijld. Nu gaan we nog meer tags stijlen.
+Bij de vorige taak heb je de `<body>` en de `<h1>` tag gestiled. Nu gaan we nog meer tags stilen.
 
-Je gaat nu de volgende tags stijlen: `<p>` en `<h4>` en `<a>`.
+Je gaat nu de volgende tags stilen: `<p>` en `<h4>` en `<a>`.
 
 ### OPDRACHT
 
 1. Maak gebruik van index.html bij deze taak
-2. Zet tussen de `<head>` en de `</head>` tags de `<style>` en de `</style>` tags (zoals bij de vorige opdracht)
+2. Zet tussen de `<head>` en de `</head>`-tags de `<style>` en de `</style>`-tags (zoals bij de vorige opdracht)
 3. Maak gebruik van de artikelen pagina die je eerder gemaakt hebt. Nu moet je ook `<a>` gebruiken en stijlen
-4. Geef alle h4 tags een tekstkleur naar keuze.
-5. Geef de p tags een donkere tekstkleur naar keuze.
-6. Geef de anchor tags een gele tekstkleur.
+4. Geef alle h4-tags een tekstkleur naar keuze.
+5. Geef de p-tags een donkere tekstkleur naar keuze.
+6. Geef de anchor-tags een gele tekstkleur.
 7. Geef de achtergrond van de pagina een grijze kleur.
 
 #### Artikel 1
@@ -26,8 +26,8 @@ Je gaat nu de volgende tags stijlen: `<p>` en `<h4>` en `<a>`.
 
 #### Artikel 2
 
-- titel = 'Burgermeester Halsema houd de (nacht)wacht'
-- tekst = 'De Amsterdamse Burgemeester houd wel van een biertje'
+- titel = 'Burgermeester Halsema houdt de (nacht)wacht'
+- tekst = 'De Amsterdamse Burgemeester houdt wel van een biertje'
 - link = "artikel2.html"
 
 #### Artikel 3
