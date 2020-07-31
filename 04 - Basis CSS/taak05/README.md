@@ -18,7 +18,7 @@ Je ziet nu twee attributen aan de p-tag. De styling die je eerder hebt gebruikt 
  }
 ```
 
-Maar als je nu gebruik wilt maken van het id-attribuut dan doe je dat als volgt in je css-code:
+Maar als je nu gebruik wilt maken van het id-attribuut dan doe je dat als volgt in je css-blok:
 
 > met een `#` stijl je tags met een `id`
 
