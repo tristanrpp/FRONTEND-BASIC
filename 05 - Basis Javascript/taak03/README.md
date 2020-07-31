@@ -4,15 +4,15 @@
 
 ### Variabelen 1
 
-Je hebt bij de vorige opdracht code gemaakt dat een bepaalde __ouput__ genereerd. Je codeerde, afhankelijk van het type popup-box, een bepaalde __input__ van de gebruiker. Bij promp() kon de gebruiker naast Ok-knop ook iets invullen.
+Je hebt bij de vorige opdracht code gemaakt die een bepaalde __ouput__ genereerde. Je codeerde, afhankelijk van het type popup-box, een bepaalde __input__ van de gebruiker. Bij promp() kon de gebruiker naast Oké-knop ook iets invullen.
 
 Maar met deze tekst input werd nog niks gedaan. Dat ga je bij deze opdracht coderen.
 
 Om de input van zo'n _tekstveld_ te krijgen gebruiken we bij deze opdracht een __variabele__. Dat is een soort doosje waar je data in kan opslaan om later weer te gebruiken. In alle programmeertalen bestaan variabelen.
 
-Het heet varaiabele omdat de inhoud kan veranderen. De inhoud varieert.
+Het heet variabele omdat de inhoud kan veranderen. De inhoud varieert.
 
-Om een variabele te maken gebruiken we uiteraard Javascript. De volgende schrijfwijze:
+Om een variabele te maken gebruiken we uiteraard Javascript met de volgende schrijfwijze:
 
 ```html
 <script>
@@ -33,7 +33,7 @@ Ook hier is een specifieke schrijfwijze gebruikt:
 - een getal hoef je niet tussen aanhalingstekens te zetten
 - een regel eindigt met een `;`
 
-Leuk hoor zo'n variabele maar wat kun je ermee? Kijk eens naar de volgende twee voorbeelden.
+Leuk hoor zo'n variabele, maar wat kun je ermee? Kijk eens naar de volgende twee voorbeelden:
 
 ```html
 <script>
@@ -64,7 +64,7 @@ Het handige aan variabele is dat je data (gegevens) tijdelijk opslaat. Dus als h
 </script>
 ```
 
-De laatste regel is ontzettend ingewikkeld. Deze berekent blijkbaar een `totaalPrijs`. Zeg nou eens dat er schaarste ontstaat ivm leveringsproblemen vanuit China Het product wordt dus duurder. Maar de kortingen blijven staan. Het mooie van zo'n variabele is dat je alleen dat cijfer hoeft te veranderen en de code doet de rest. Kijk maar eens als we de prijs met 100 verhogen.
+De laatste regel is ingewikkeld. Deze berekent een `totaalPrijs`. Stel de prijs wordt hoger, maar de kortingen blijven staan. Het mooie van zo'n variabele is dat je dan alleen dat cijfer hoeft te veranderen en de code doet de rest. Kijk maar eens als we de prijs met 100 verhogen.
 
 ```html
 <script>
