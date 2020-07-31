@@ -4,13 +4,13 @@
 
 ### querySelector
 
-Ok. Nu gaan we echt geleerde dingen combineren.
+Oké. Nu gaan we de geleerde dingen combineren.
 
-Je weet dat er verschillende `HTML`-tags zijn die je op verschillende wijzes kunt stijlen met `CSS`. En je hebt geleerd om __input__ te vragen van een gebruiker en __output__ te tonen met `Javascript` (`JS`).
+Je weet dat er verschillende `HTML`-tags zijn die je op verschillende wijzen kunt stylen met `CSS`. En je hebt geleerd om __input__ te vragen van een gebruiker en __output__ te tonen met `Javascript` (`JS`).
 
-Je kunt met Javascript ook HTML-tags ook wel HTML-elementen genoemd aanpassen of zelf verwijderen.
+Ook kun je met Javascript  HTML-tags aanpassen of zelfs verwijderen.
 
-Om ze te kunnen beinvloeden met JS moet we een HTML-tag of HTML-element zien te vinden. Dit werkt ongeveer hetzelfde als bij CSS. Bij CSS gebruikte we de `tag` naam om bijvoorbeeld de tekst rood te maken
+Om HTML-tags te kunnen beïnvloeden met JS moet we er eerst een zien te vinden. Dit werkt ongeveer hetzelfde als bij CSS. Bij CSS gebruikten we de `tag`-naam om bijvoorbeeld de tekst rood te maken
 
 ```css
 h1{
@@ -40,7 +40,7 @@ Laten we de code even uitleggen:
     document.querySelector("h1");
 ```
 
-Wat kun je hier nou mee? Je kunt de tekst dat tussen `<h1>` en `</h1>` staat bijvoorbeeld ophalen en in een alert box zetten.
+Wat kun je hier nou mee? Je kunt bijvoorbeeld de tekst die tussen `<h1>` en `</h1>` staat  ophalen en in een alertbox zetten.
 
 ### OPDRACHT
 
@@ -48,7 +48,7 @@ Wat kun je hier nou mee? Je kunt de tekst dat tussen `<h1>` en `</h1>` staat bij
 2. Wat zie je?
 3. Bestudeer de code eens. Je ziet dat het element `<h1>` is opgehaald
 4. Je ziet ook dat `koptekst.innerHTML` in de `alert`-box wordt gezet om het onderstaande resultaat te krijgen
-5. Als je de laatste regel bekijkt dan zie dat er een stukje code in commentaar staat. Kan je dit weghalen?
+5. Als je de laatste regel bekijkt, dan zie dat er een stukje code in commentaar staat. Kan je dit weghalen?
 6. Wat zie je in de browser gebeuren? Goed kijken!
 
 ### RESULTAAT
