@@ -20,7 +20,7 @@ Daartussen kun je Javascript code schrijven. Bij de vorige opdracht stond daar d
 
 > Let hierbij goed op de haakjes (`()`), aanhalingstekens (`"`) en dubbele punt (`;`)
 
-Er zijn nog meer van dit soort type `popup`-boxen
+Er zijn nog meer van dit type `popup`-boxen
 
 - alert();
 - confirm();
