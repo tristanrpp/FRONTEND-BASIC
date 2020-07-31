@@ -4,7 +4,7 @@
 
 ### Introductie CSS
 
-CSS staat voor Cascading Style Sheets. Hiermee kan je een webpagina stilen van eenvoudig tot zeer complex. CSS-code is anders opgebouwd en volgt andere regels dan HTML-code. Hier staat een voorbeeld:
+CSS staat voor Cascading Style Sheets. Hiermee kan je een webpagina stylen van eenvoudig tot zeer complex. CSS-code is anders opgebouwd en volgt andere regels dan HTML-code. Hier staat een voorbeeld:
 
 ```CSS
 body{
@@ -23,9 +23,9 @@ a{
 }
 ```
 
-Je ziet hierboven dat de `<body>`, `<img>` en `<a>` tags gestiled worden.
+Je ziet hierboven dat de `<body>`, `<img>` en `<a>` tags gestyled worden.
 
-Je kunt een webpagina op verschillende wijzes stilen. Van zakelijk tot speels, afhankelijk van wat de opdrachtgever of jij zelf wilt hebben. Je kunt zelfs meerdere stijlen aanbrengen bij een website.
+Je kunt een webpagina op verschillende wijzes stylen. Van zakelijk tot speels, afhankelijk van wat de opdrachtgever of jij zelf wilt hebben. Je kunt zelfs meerdere stijlen aanbrengen bij een website.
 
 ### OPDRACHT
 
