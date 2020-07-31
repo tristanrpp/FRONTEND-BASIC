@@ -2,11 +2,11 @@
 
 ## BASIS CSS-TAAK-03
 
-### Meerdere tags stilen
+### Meerdere tags stylen
 
-Bij de vorige taak heb je de `<body>` en de `<h1>` tag gestiled. Nu gaan we nog meer tags stilen.
+Bij de vorige taak heb je de `<body>` en de `<h1>` tag gestyled. Nu gaan we nog meer tags stylen.
 
-Je gaat nu de volgende tags stilen: `<p>` en `<h4>` en `<a>`.
+Je gaat nu de volgende tags stylen: `<p>` en `<h4>` en `<a>`.
 
 ### OPDRACHT
 
