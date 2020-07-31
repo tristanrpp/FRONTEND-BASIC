@@ -4,7 +4,7 @@
 
 ### CSS BLOCK
 
-Je kunt de achtergrond van een webpagina een kleur geven. Door de volgende code te schrijven: `background-color`. Daarnaast kun je ook tekst een kleur geven door `color` te gebruiken.
+Je kunt de achtergrond van een webpagina een kleur geven door de volgende code te schrijven: `background-color`. Daarnaast kun je ook tekst een kleur geven door `color` te gebruiken.
 
 Hier volgt een voorbeeld
 
@@ -33,7 +33,7 @@ Op dit moment gebruiken we alleen nog de blok-manier. Deze begin je met een `<st
 </style>
 ```
 
-Je plaatst je CSS blok tussen de  `<head>` tags van je pagina.
+Je plaatst je CSS-blok tussen de  `<head>` tags van je pagina.
 
 ```html
 <!DOCTYPE html>
