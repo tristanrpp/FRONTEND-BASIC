@@ -10,9 +10,9 @@ De technieken HTML, CSS en Javascript worden vaak gebruikt als introductietalen 
 - [ ]  Ik volg de regels van webdevelopment
   - [ ]  De juiste informatie tussen de juiste __tags__
   - [ ]  Ik spring tags in (indenting) om de leesbaarheid te vegroten
-- [ ]  Ik stile met behulp van een CSS-blok de verschillende HTML-tags: `<h1>`, `<p>`, `<a>`, `<img>`
-- [ ]  Ik stile specifieke HTML-tags met een `id-attribuut` door een `#` te gebruiken in de CSS-code
-- [ ]  Ik stile specifieke HTML-tags met een `class-attribuut` door een `.` te gebruiken in de CSS-code
+- [ ]  Ik style met behulp van een CSS-blok de verschillende HTML-tags: `<h1>`, `<p>`, `<a>`, `<img>`
+- [ ]  Ik style specifieke HTML-tags met een `id-attribuut` door een `#` te gebruiken in de CSS-code
+- [ ]  Ik style specifieke HTML-tags met een `class-attribuut` door een `.` te gebruiken in de CSS-code
 - [ ]  Ik kan interactie met Javascript mogelijk maken door de popup-boxen `alert`, `prompt` en `confirm` te gebruiken
 - [ ]  Ik codeer variabelen met het woordje `let` en geef deze een specifieke waarde zoals: `let mijnLeeftijd = 16;`
 
