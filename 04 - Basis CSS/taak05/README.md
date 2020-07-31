@@ -4,13 +4,13 @@
 
 ### ID gebruiken
 
-Bij de vorige opdracht heb je meerdere tags een bepaalde class attribuut waarde meegegeven: `class="amsterdam"`. Maar stel nou dat je tussen deze classes ook onderscheid wilt maken. Dan kun je op verschillende wijzes doen. In deze taak leren we je het attribuut `id` te gebruiken. Dit zou er dan zo uit komen te zien:
+Bij de vorige opdracht heb je meerdere tags een bepaalde class attribuut waarde meegegeven: `class="amsterdam"`. Maar stel nou dat je tussen deze classes ook onderscheid wilt maken. Dan kun je op verschillende wijzen doen. In deze leer je het attribuut `id` te gebruiken. Dit zou er zo uit kunnen zien in je html:
 
 ```html
 <p class="amsterdam" id="politiek">Femke Halsema</p>
 ```
 
-Je ziet nu 2 attributen aan de p-tag. De stijling die je eerder hebt gebruikt is nog steeds van toepassing:
+Je ziet nu twee attributen aan de p-tag. De styling die je eerder hebt gebruikt is nog steeds van toepassing:
 
 ```css
  .amsterdam{
@@ -18,7 +18,7 @@ Je ziet nu 2 attributen aan de p-tag. De stijling die je eerder hebt gebruikt is
  }
 ```
 
-Maar als je nu gebruik wilt maken van het id-attribuut dan doe je dat als volgt:
+Maar als je nu gebruik wilt maken van het id-attribuut dan doe je dat als volgt in je css-code:
 
 > met een `#` stijl je tags met een `id`
 
@@ -27,7 +27,7 @@ Maar als je nu gebruik wilt maken van het id-attribuut dan doe je dat als volgt:
      color: green;
  }
 ```
-Nu wordt alleen deze p-tag groen gemaakt. Handig he.
+Nu wordt alleen deze p-tag groen gemaakt. Handig hè?
 
 
 ### OPDRACHT
