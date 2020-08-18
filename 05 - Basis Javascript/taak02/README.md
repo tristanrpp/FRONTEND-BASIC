@@ -4,7 +4,7 @@
 
 ### Popup boxen
 
-Bij de vorige opdracht verscheen er een `alert-box`. Dit is een soort waarschuwing naar de gebruiker toe. Dit noemen ze de __`output`__ van een applicatie. De gebruiker kan op de knop `OK` klikken om de box te laten verwijnen. Dus je vraagt de gebruiker om __`input`__.
+Bij de vorige opdracht verscheen er een `alert-box`. Dit is een soort waarschuwing naar de gebruiker toe. Dit noemen ze de __`output`__ van een applicatie. De gebruiker kan op de knop `OK` klikken om de box te laten verwijnen. Dus je vraagt de gebruiker om __`input`__. Als een gebruiker niet op OK klikt dan kan de gebruiker niet verder. Dit noemen ze een modal. De pagina wacht op input van de gebruiker, daarna kan de gebruiker weer verder met de rest van de applicatie.
 
 Je kunt zelf ook zo'n alertbox maken. Door gebruik te maken van Javascript. Om Javascriptcode te kunnen schrijven moet je in je HTML-pagina aangeven wat Javascript is. Net als bij je CSS-codeblok. Je gebruikt hiervoor `script` tags
 
