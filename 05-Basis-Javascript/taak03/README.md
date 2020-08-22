@@ -33,7 +33,19 @@ Ook hier is een specifieke schrijfwijze gebruikt:
 - een getal hoef je niet tussen aanhalingstekens te zetten
 - een regel eindigt met een `;`
 
-Leuk hoor zo'n variabele, maar wat kun je ermee? Kijk eens naar de volgende twee voorbeelden:
+Leuk hoor zo'n variabele, maar wat kun je ermee?
+
+Stel je bent buschauffeur. Er zitten 3 mensen in de bus die ongeveer 45 km/uur rijdt. De bus stopt: er stappen 2 mensen in en 1 iemand uit. Daarna rijdt de bus verder met 30 km/uur, bij de volgende halte stapt er niemand uit maar er stappen 4 mensen in. De bus rijdt weer verder met 80 km/uur en bij de volgende halte stappen 3 mensen uit en 1 iemand stapt in. De volgende halte stappen er 2 mensen in en 1 mens uit.
+
+De volgende vragen kun je nu stellen?
+
+- Hoeveel mensen zitten er nog in de bus (`aantalMensenInBus`)?
+- Hoe vaak is de bus gestopt (`aantalBezochteHaltes`)?
+- Hoe hard reed de bus gemiddeld (`gemiddeldeSnelheid`)?
+
+Deze vragen kun je zelf alleen beantwoorden als je gaat rekenen en papier gaat gebruiken. Deze vragen kun je op elk moment beantwoorden tijdens dit verhaal. De getallen zullen steeds veranderen. Dit zijn dus waardes die variabel zijn. Ze veranderen steeds.
+
+Kijk eens naar de volgende twee voorbeelden:
 
 ```html
 <script>
@@ -68,7 +80,7 @@ De laatste regel is ingewikkeld. Deze berekent een `totaalPrijs`. Stel de prijs 
 
 ```html
 <script>
-    let prijsProduct = 499;
+    let prijsProduct = 499; // 399 + 100
     let zomerKorting = 15; //percentages
     let ledenKorting = 10; //percentages
     let totaalPrijs = prijsProduct - (prijsProduct * ledenKorting /100) - (prijsProduct * zomerKorting/100);
