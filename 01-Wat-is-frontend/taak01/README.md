@@ -23,3 +23,10 @@ Talen die vaak gebruikt worden voor het frontenddeel van een applicatie zijn: `H
 ### Opdracht
 
 Als je deze taak gelezen hebt dan kun je deze nu afvinken.
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:42423387
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->
