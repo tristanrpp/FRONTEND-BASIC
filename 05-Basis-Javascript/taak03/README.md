@@ -99,3 +99,10 @@ De laatste regel is ingewikkeld. Deze berekent een `totaalPrijs`. Stel de prijs 
 ### RESULTAAT
 
 ![Variabele](images/variabele.png)
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:25141402
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->
