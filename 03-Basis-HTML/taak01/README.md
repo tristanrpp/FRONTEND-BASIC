@@ -17,3 +17,10 @@ Tijdens je codeer-lessen ga je gebruik maken van VS-Code. Dit is een professione
 ### EINDRESULTAAT
 
 ![Resultaat](images/resultaat.png)
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:56334576
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->
