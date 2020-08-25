@@ -54,3 +54,10 @@ Wat kun je hier nou mee? Je kunt bijvoorbeeld de tekst die tussen `<h1>` en `</h
 ### RESULTAAT
 
 ![querySelector](images/querySelector.png)
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:73917805
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->
