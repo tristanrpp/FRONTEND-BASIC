@@ -16,3 +16,10 @@ Als developer maak je gebruik van diverse tools. Een daarvan is Google Chrome De
 6. Aan de onderkant van de webpagina staan nog meer gegevens. Vaak zijn dit bedrijfsgegevens of extra informatie die handig kan zijn. Dit stuk noemen ze de footer van een pagina (zie afbeeldingen hieronder). Kun jij achterhalen tussen welke tags de kopjes en links staan?
    ![footer TikTok](images/footer.png)
    ![footer TikTok]images/footer-tech.png)
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:59222379
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->
