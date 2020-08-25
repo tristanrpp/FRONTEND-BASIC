@@ -40,3 +40,10 @@ Kijk ook eens naar onderstaande afbeelding:
 ### BRONNEN
 
 - [Classes gebruiken (.) - Les 3](https://www.youtube.com/watch?v=E--hpftoXKc)
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:79344957
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->
