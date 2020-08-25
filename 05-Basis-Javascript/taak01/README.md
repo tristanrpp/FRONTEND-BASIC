@@ -17,3 +17,10 @@ Je kunt dingen laten bewegen, de gebruiker om informatie vragen en, als je veel 
 ### RESULTAAT
 
 ![Resultaat](images/resultaat.png)
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:34221546
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->
