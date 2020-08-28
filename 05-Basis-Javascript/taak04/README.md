@@ -32,7 +32,7 @@ Dit is een beetje saaie code, we willen tenslotte aan elke gebruiker zijn of haa
 </script>
 ```
 
-Nu wordt de __input__ van de gebruiker (`voornaam`) gestopt in het doosje `mijnVoornaam`
+Nu wordt de __input__ van de gebruiker (`voornaam`) gestopt in de variabele `mijnVoornaam`
 
 > We doen nog verder niks met de variabele maar dat gaan we wel doen. Er is dus geen __output__.
 

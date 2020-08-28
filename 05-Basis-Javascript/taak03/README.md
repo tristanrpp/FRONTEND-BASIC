@@ -43,7 +43,7 @@ De volgende vragen kun je nu stellen?
 - Hoe vaak is de bus gestopt (`aantalBezochteHaltes`)?
 - Hoe hard reed de bus gemiddeld (`gemiddeldeSnelheid`)?
 
-Deze vragen kun je zelf alleen beantwoorden als je gaat rekenen en papier gaat gebruiken. Deze vragen kun je op elk moment beantwoorden tijdens dit verhaal. De getallen zullen steeds veranderen. Dit zijn dus waardes die variabel zijn. Ze veranderen steeds.
+Deze vragen kun je zelf alleen beantwoorden als je gaat rekenen en papier gaat gebruiken. Deze vragen kun je op elk moment beantwoorden tijdens dit verhaal. Dus na halte 1, of halte 2 enzovoort. De getallen zullen steeds veranderen. Dit zijn dus waardes die variabel zijn. Ze veranderen steeds.
 
 Kijk eens naar de volgende twee voorbeelden:
 
@@ -76,7 +76,7 @@ Het handige aan variabele is dat je data (gegevens) tijdelijk opslaat. Dus als h
 </script>
 ```
 
-De laatste regel is ingewikkeld. Deze berekent een `totaalPrijs`. Stel de prijs wordt hoger, maar de kortingen blijven staan. Het mooie van zo'n variabele is dat je dan alleen dat cijfer hoeft te veranderen en de code doet de rest. Kijk maar eens als we de prijs met 100 verhogen.
+De laatste regel is ingewikkeld. Deze berekent een `totaalPrijs`. Stel de prijs (prijsProduct) wordt hoger, maar de kortingen blijven staan. Het mooie van zo'n variabele is dat je dan alleen dat cijfer (399) hoeft te veranderen en de code doet de rest. Kijk maar eens als we de prijs met 100 verhogen.
 
 ```html
 <script>

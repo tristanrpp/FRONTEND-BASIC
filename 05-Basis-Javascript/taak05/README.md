@@ -8,7 +8,7 @@ Oké. Nu gaan we de geleerde dingen combineren.
 
 Je weet dat er verschillende `HTML`-tags zijn die je op verschillende wijzen kunt stylen met `CSS`. En je hebt geleerd om __input__ te vragen van een gebruiker en __output__ te tonen met `Javascript` (`JS`).
 
-Ook kun je met Javascript  HTML-tags aanpassen of zelfs verwijderen.
+Ook kun je met Javascript HTML-tags aanpassen of zelfs verwijderen.
 
 Om HTML-tags te kunnen beïnvloeden met JS moet we er eerst een zien te vinden. Dit werkt ongeveer hetzelfde als bij CSS. Bij CSS gebruikten we de `tag`-naam om bijvoorbeeld de tekst rood te maken
 
@@ -31,7 +31,7 @@ Laten we de code even uitleggen:
 ```js
     let element = //dit is het aamaken van de variabele
 
-    document //dit betekent het HTML-document/pagina
+    document //dit betekent het HTML-document/pagina inladen in JS.
 
     querySelector("h1") // deze code gaat op zoek naar h1-element. Het is een soort zoekmachine binnen je webpagina.
 

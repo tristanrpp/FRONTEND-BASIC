@@ -5,6 +5,7 @@
 Je hebt nu allerlei basisbegrippen gebruikt of toegepast. Je hebt kennis gemaakt met HTML, CSS en Javascript. Kortom, welkom in de wereld van de Frontend Developer.
 
 __Aan deze doelen heb je gewerkt:__
+
 - [ ]  Ik gebruik de standaard tags `<html>`, `<head>`, `<body>` voor iedere website
 - [ ]  Ik volg de regels van webdevelopment:
   - [ ]  De juiste informatie tussen de juiste __tags__
