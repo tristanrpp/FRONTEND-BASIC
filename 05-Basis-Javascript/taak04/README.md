@@ -55,3 +55,10 @@ let merkAuto = "BMW";
 ### RESULTAAT
 
 ![Variabele](images/variabele.png)
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:91571551
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->

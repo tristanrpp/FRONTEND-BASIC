@@ -38,3 +38,10 @@ Er zijn nog meer van dit type `popup`-boxen
 ![Resultaat](images/confirm.png)
 
 ![Resultaat](images/prompt.png)
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:44117910
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->

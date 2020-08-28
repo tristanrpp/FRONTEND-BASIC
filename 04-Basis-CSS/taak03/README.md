@@ -43,3 +43,10 @@ Je gaat nu de volgende tags stylen: `<p>` en `<h4>` en `<a>`.
 ### BRONNEN
 
 - [CSS leren schrijven - Les 2](https://www.youtube.com/watch?v=X58h-d5sHsE)
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:46823719
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->

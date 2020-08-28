@@ -75,3 +75,10 @@ Er zijn er nog veel meer. Door te blijven coderen kom je er vanzelf achter welke
 
 - [W3Schools - HTML Tutorial](https://www.w3schools.com/html/)
 - [HTML leren schrijven - Les 1](https://www.youtube.com/watch?v=3ejolTCFrYg)
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:37058390
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->

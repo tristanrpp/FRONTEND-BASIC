@@ -16,3 +16,10 @@ Als we spreken over het `client-server` model dan is
 ### OPDRACHT
 
 1. Zoek een afbeelding dat uitlegt wat het verschil is tussen Backend en Frontend
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:91655455
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->

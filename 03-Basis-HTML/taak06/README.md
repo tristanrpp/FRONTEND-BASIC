@@ -59,3 +59,10 @@ Als je op deze link klikt dan wordt pagina `link_naar_andere_pagina.html` opgevr
 
 - [W3Schools - HTML Tutorial](https://www.w3schools.com/html/)
 - [Een link maken - Les 5 -](https://www.youtube.com/watch?v=ywTp238aqSE)
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:43167695
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->

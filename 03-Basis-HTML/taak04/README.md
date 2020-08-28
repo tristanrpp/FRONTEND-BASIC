@@ -39,3 +39,10 @@ Check maar eens de head-tags. We zien heel goed dat de title-tags hier tussen st
 ### BRONNEN
 
 - [W3Schools - HTML Tutorial](https://www.w3schools.com/html/)
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:33208796
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->

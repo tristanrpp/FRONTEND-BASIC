@@ -75,3 +75,10 @@ Dit is dan het resultaat:
 ### BRONNEN
 
 - [W3Schools - HTML Tutorial](https://www.w3schools.com/html/)
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:72508417
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->

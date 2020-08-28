@@ -57,3 +57,10 @@ Je ziet in dit voorbeeld dat ook de extentie (bestandstype) wordt opgeschreven. 
 ### BRONNEN
 
 * [W3Schools - HTML Tutorial](https://www.w3schools.com/html/)
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:25703834
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->

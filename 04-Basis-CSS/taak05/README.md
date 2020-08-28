@@ -40,3 +40,10 @@ Nu wordt alleen deze p-tag groen gemaakt. Handig hè?
 ### BRONNEN
 
 - [ID's gebruiken (#) - Les 4](https://www.youtube.com/watch?v=ryI9-j0OFXw)
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:23994398
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->
