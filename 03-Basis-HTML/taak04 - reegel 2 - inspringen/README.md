@@ -27,7 +27,7 @@ Kijk eens naar de html-code uit de vorige opdracht:
 </html>
 ```
 
-Alle tags die tussen `<html>` en </html> staan zijn ingesprongen ten opzichte van diezelfde tags. Ze staan allemaal een stukje naar rechts. Dit geldt ook voor alle tags die tussen `<body>` en `</body>` tags staan. __Dit zorgt voor een betere leesbaarheid__
+Alle tags die tussen `<html>` en `</html>` staan zijn ingesprongen ten opzichte van diezelfde tags. Ze staan allemaal een stukje naar rechts. Dit geldt ook voor alle tags die tussen `<body>` en `</body>` tags staan. __Dit zorgt voor een betere leesbaarheid__
 De tags tussen `<title>` en `<\title>` staan, hebben zelfs een dubbele inspringing.
 
 Check maar eens de head-tags. We zien heel goed dat de title-tags hier tussen staan.

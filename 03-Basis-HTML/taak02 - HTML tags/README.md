@@ -61,9 +61,11 @@ Dit is dan het resultaat:
 
 1. Maak bij deze taak gebruik van bestand: `index.html`
 2. Maak gebruik van de standaard tags en vul de volgende informatie in op de juiste plek, kies uit `title`, `h1` en `p` tags
-   > - Een webpagina maken is makkelijk
-   > - Welkom op mijn website.
-   > - U moet nog even geduld hebben. De styling komt later
+
+   > * Een webpagina maken is makkelijk
+   > * Welkom op mijn website.
+   > * U moet nog even geduld hebben. De styling komt later
+
 3. Lees de tekst en de opdracht goed om tot het eindresultaat te komen
 4. Let erop dat de tag `title` tusse de `head` en de `</head>` tags komt te staan
 5. Let erop dat de `h1` en `p` tags tussen de `<body>` en `</body>` tags komen te staan
