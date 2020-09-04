@@ -4,13 +4,13 @@
 
 ### ID gebruiken
 
-Bij de vorige opdracht heb je meerdere tags een bepaalde class attribuut waarde meegegeven: `class="amsterdam"`. Maar stel nou dat je tussen deze classes ook onderscheid wilt maken. Dan kun je op verschillende wijzen doen. In deze leer je het attribuut `id` te gebruiken. Dit zou er zo uit kunnen zien in je html:
+Bij de vorige opdracht heb je meerdere tags een bepaalde class attribuut waarde meegegeven: `class="amsterdam"`. Maar stel nou dat je tussen deze classes ook onderscheid wilt maken. Dan kun je op verschillende wijzen doen. In deze taak leer je het attribuut `id` te gebruiken. Dit zou er zo uit kunnen zien in je html:
 
 ```html
 <p class="amsterdam" id="politiek">Femke Halsema</p>
 ```
 
-Je ziet nu twee attributen aan de p-tag. De styling die je eerder hebt gebruikt is nog steeds van toepassing:
+Je ziet nu twee attributen aan de p-tag: `id` en `class`. De styling die je eerder hebt gebruikt is nog steeds van toepassing:
 
 ```css
  .amsterdam{
