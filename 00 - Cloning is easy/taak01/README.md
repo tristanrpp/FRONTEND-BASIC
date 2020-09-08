@@ -14,8 +14,8 @@ Op github.com staan tot nu toe alle door jou doorlopen modules. Kijk maar eens b
 
 ### Repositories
 
-Je ziet op github.com repositories staan. Dit zijn stukjes code bij elkaar. Het kan een project zijn of een specifieke plugin of functionaliteit. 
-Een repository kun je downloaden naar je eigen computer, zodat je de code daar op kunt draaien, testen en aanpassen. 
+Je ziet op github.com repositories staan. Dit zijn stukjes code bij elkaar. Het kan een project zijn of een specifieke plugin of functionaliteit.
+Een repository kun je downloaden naar je eigen computer, zodat je de code daar op kunt draaien, testen en aanpassen.
 
 ### Opdracht
 
@@ -24,16 +24,17 @@ Clone deze repository __Frontend-Basic__ van github.com door de volgende stappen
 1. [ ] Ga naar de module FRONTEND BASIC in [EAGLEDEV](https://eagledev.nl)
 2. [ ] Klik op de groene knop ![Groene knop](images/clone.png)
 3. [ ] Open met VS CODE de map __Jaar1__ op je ONEDRIVE.
-4. [ ] Open een terminal. 
-5. [ ] Dit moet je in de terminal krijgen: 
+4. [ ] Open een terminal.
+5. [ ] Dit moet je in de terminal krijgen:
 
-```
-git clone https://github.com/___USERNAME__/frontend-basic.git
-```
+    ```terminal
+    git clone https://github.com/___USERNAME__/frontend-basic.git
+    ```
+
 6. [ ] en dat doe je door punt 7 uit te voeren:
-7. [ ] Type het volgende in `git clone ` en druk op CTRL+V4
+7. [ ] Type het volgende in `git clone` en druk op CTRL+V
 8. [ ] Als alles goed gegaan is dan heb je de hele repository (module) op je computer staan en kun je de opdrachten (taken gaan) maken
-
+9. [ ] Ga maar eens naar de map/folder
 
 <!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
 ------------------ ------------------------------ ------------
