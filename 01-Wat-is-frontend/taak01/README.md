@@ -18,7 +18,7 @@ Talen die vaak gebruikt worden voor het frontenddeel van een applicatie zijn: `H
 
 ### Overzicht
 
-![Overzicht](https://github.com/ROC-van-Amsterdam-College-Amstelland/FRONTEND-BASIC/blob/master/01-%20Wat%20is%20frontend/taak01/images/frontend%20overview.png?raw=true)
+![Overzicht](images/frontend%20overview.png?raw=true)
 
 ### Opdracht
 

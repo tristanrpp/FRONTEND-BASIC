@@ -19,8 +19,6 @@ Het is daarbij essentieel dat je bestanden op de juiste plek opslaat. En met de 
 
 ### EINDRESULTAAT
 
-![Resultaat](images/resultaat.png)
-
 
 <!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
 ------------------ ------------------------------ ------------
