@@ -35,3 +35,10 @@ Clone deze repository __Frontend-Basic__ van github.com door de volgende stappen
 7. [ ] Type het volgende in `git clone` en druk op CTRL+V
 8. [ ] Als alles goed gegaan is dan heb je de hele repository (module) op je computer staan en kun je de opdrachten (taken gaan) maken
 9. [ ] Ga maar eens naar de map/folder
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:27134510
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->
