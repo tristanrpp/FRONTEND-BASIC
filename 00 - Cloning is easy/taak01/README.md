@@ -6,7 +6,7 @@
 
 ### Definitie
 
-Met behulp van GIT, github.com en jou code skills ga je de mooiste dingen bouwen. Vaak werk je aan code dat al bestaat, soms begin je from scratch. Het gaat erom dat jij weet hoe je op jouw machine aan de slag kunt gaan. Je gaat het commando `git clone` gebruiken om een `repository` te __clonen__.
+Met behulp van GIT, github.com en jouw code skills ga je de mooiste dingen bouwen. Vaak werk je aan code dat al bestaat, soms begin je from scratch. Het gaat erom dat jij weet hoe je op jouw machine aan de slag kunt gaan. Je gaat het commando `git clone` gebruiken om een `repository` te __clonen__.
 
 ### Github.com
 
