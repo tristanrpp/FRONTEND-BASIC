@@ -18,7 +18,7 @@ Talen die vaak gebruikt worden voor het frontenddeel van een applicatie zijn: `H
 
 ### Overzicht
 
-![Overzicht](images/frontend%20overview.png?raw=true)
+![Overzicht](images/frontend%20overview.pn)
 
 ### Opdracht
 
