@@ -8,7 +8,9 @@
 
 1. Zoek met je favoriete zoekmachine naar minstens 3 mogelijke beroepen die je kunt doen als Frontend Developer.
 
-
+1. frond end designer
+2.  Frond end developer
+3. Maintaining software workflow management
 <!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
 ------------------ ------------------------------ ------------
 ------------------ eagle ref:45316935

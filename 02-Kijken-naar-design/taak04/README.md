@@ -10,6 +10,8 @@
 2. Teken rechthoeken om alle blokken die jij kunt vinden in de volgende ![website](images/Design.png?raw=true)
 3. Hoeveel blokken heb je kunnen vinden? 
 
+3. Ik zie 3 blokken
+
 
 <!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
 ------------------ ------------------------------ ------------
