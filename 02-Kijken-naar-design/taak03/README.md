@@ -10,6 +10,9 @@
 2. Teken rechthoeken om alle blokken die jij kunt vinden in de volgende ![mockup](images/mockup.png)
 3. Hoeveel blokken heb je kunnen vinden?
 
+3 blokken
+
+
 
 <!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
 ------------------ ------------------------------ ------------
