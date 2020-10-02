@@ -11,6 +11,8 @@
 3. Schrijf voor jezelf op wat je opvalt, welke kleuren zijn er gebruikt? Hoe zit het met design? Schrijf het zo op dat je het design kunt uitleggen over de telefoon aan iemand anders, iemand die het plaatje dus niet ziet. Wees daarom zo specifiek mogelijk.
 4. Bespreek je resultaten in je codegroep.
 
+Bij alle plaatjes zie ik dat je je moet aanmelden met je email. Bij de bovenste 3 moet je een account aan maken. Je moet gegevens invoeren zoals je de datum waar in je geboren bent en je username en wachtwoord invoeren. De bouw van alle plaatjes zien er bijna het zelfde uit. 
+
 
 <!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
 ------------------ ------------------------------ ------------
