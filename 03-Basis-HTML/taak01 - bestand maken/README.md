@@ -17,6 +17,8 @@ Het is daarbij essentieel dat je bestanden op de juiste plek opslaat. En met de 
    2. Je kunt het bestand ook openen vanuit VS-Code.
 3. Wat zie je op het scherm? Een wit scherm?
 
+Ik zie een wit scherm
+
 ### EINDRESULTAAT
 
 
