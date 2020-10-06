@@ -17,7 +17,9 @@ Als developer maak je gebruik van diverse tools. Een daarvan is Google Chrome De
    ![footer TikTok](images/footer.png)
    ![footer TikTok]images/footer-tech.png)
 
-
+4: het staat in een h1 
+5: staat in een h2 en daar in in een strong.
+6:onder een a class.
 <!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
 ------------------ ------------------------------ ------------
 ------------------ eagle ref:59222379
