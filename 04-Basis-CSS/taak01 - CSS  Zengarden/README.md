@@ -37,6 +37,8 @@ Je kunt een webpagina op verschillende wijzes stylen. Van zakelijk tot speels, a
 6. Bestudeer eens de broncode van deze pagina. Klik met je rechtermuis knop ergens op de pagina en kies `Bekijk broncode`
 7. Verandert deze code als je schakelt tussen de verschillende designs?
 
+7. Nee de code blijft het zelfde. 
+
 
 <!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
 ------------------ ------------------------------ ------------
