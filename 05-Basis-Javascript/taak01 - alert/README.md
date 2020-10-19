@@ -14,6 +14,8 @@ Je kunt dingen laten bewegen, de gebruiker om informatie vragen en, als je veel 
 1. Open `index.html` in je browser.
 2. Bekijk eens wat er gebeurt.
 
+opdracht 2: er staat boven aan een balkje met 'hallo student'
+
 ### RESULTAAT
 
 ![Resultaat](images/resultaat.png)
